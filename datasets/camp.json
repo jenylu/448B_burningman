@@ -1,0 +1,4153 @@
+[
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "open",
+    "Count": 41,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "stop",
+    "Count": 41,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "chill",
+    "Count": 42,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "play",
+    "Count": 42,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "space",
+    "Count": 42,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "place",
+    "Count": 43,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "find",
+    "Count": 43,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 44,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "make",
+    "Count": 44,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "back",
+    "Count": 45,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "day",
+    "Count": 47,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 50,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 50,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "bring",
+    "Count": 51,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "enjoy",
+    "Count": 61,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "join",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 69,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 108,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 189,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "come",
+    "Count": 197,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "stop",
+    "Count": 37,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "bar",
+    "Count": 37,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 39,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "find",
+    "Count": 39,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "music",
+    "Count": 41,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "playa.",
+    "Count": 41,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "metropolis",
+    "Count": 42,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "every",
+    "Count": 45,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 46,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "place",
+    "Count": 48,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "bring",
+    "Count": 48,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "dance",
+    "Count": 49,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "play",
+    "Count": 51,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 52,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "enjoy",
+    "Count": 64,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "join",
+    "Count": 64,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 71,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 110,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 187,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "come",
+    "Count": 197,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "sin",
+    "Count": 5,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "monkey",
+    "Count": 5,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "lost",
+    "Count": 5,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "free",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "palace",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "kamp",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "oasis",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "dome",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "tribe",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "house",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "circus",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "club",
+    "Count": 8,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 8,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 11,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "cafe",
+    "Count": 13,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "village",
+    "Count": 17,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "bar",
+    "Count": 18,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "lounge",
+    "Count": 26,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 179,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 5,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "lost",
+    "Count": 5,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "palace",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "/",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "house",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "temple",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "club",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "sin",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "dust",
+    "Count": 6,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "brc",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "monkey",
+    "Count": 7,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "kamp",
+    "Count": 8,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "oasis",
+    "Count": 8,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 9,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "cafe",
+    "Count": 10,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 10,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "bar",
+    "Count": 13,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "village",
+    "Count": 22,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "lounge",
+    "Count": 26,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 153,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "make",
+    "Count": 44,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "experience",
+    "Count": 44,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "find",
+    "Count": 45,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "day",
+    "Count": 46,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "open",
+    "Count": 47,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "love",
+    "Count": 48,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 51,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 52,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "playa.",
+    "Count": 55,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "play",
+    "Count": 59,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "music",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "dance",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "enjoy",
+    "Count": 69,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "bring",
+    "Count": 71,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 72,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 85,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "join",
+    "Count": 92,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 141,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 216,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "come",
+    "Count": 277,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "welcome",
+    "Count": 52,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "playa.",
+    "Count": 54,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "day",
+    "Count": 55,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "space",
+    "Count": 55,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "bring",
+    "Count": 56,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "fire",
+    "Count": 59,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "find",
+    "Count": 59,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "open",
+    "Count": 60,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "dance",
+    "Count": 61,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 66,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "stop",
+    "Count": 69,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "music",
+    "Count": 72,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "play",
+    "Count": 76,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 83,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "enjoy",
+    "Count": 97,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "join",
+    "Count": 97,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 153,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 222,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "come",
+    "Count": 334,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "playa.",
+    "Count": 61,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "chill",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "experience",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "bring",
+    "Count": 68,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 71,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "love",
+    "Count": 71,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "open",
+    "Count": 72,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "play",
+    "Count": 72,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "music",
+    "Count": 74,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "dance",
+    "Count": 76,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "space",
+    "Count": 79,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "stop",
+    "Count": 79,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "place",
+    "Count": 85,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "home",
+    "Count": 85,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "enjoy",
+    "Count": 100,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "join",
+    "Count": 111,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 135,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 193,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "camp",
+    "Count": 327,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "come",
+    "Count": 406,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 8,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "art car",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "mutant vehicle",
+    "Count": 3,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "interactive games",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "chill space",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "returning Burners",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Redirection Connection",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "little bit",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "solar ovens",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "random events",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Chill area",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Hammock Hangout",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "great music",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "ice sales operation",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "happy hour",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "interactive art",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "dance floor",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "iced sun tea",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "strange alter-ego",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "sassy apron-wearing moms",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 20,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "the sun",
+    "Count": 10,
+    "Sentiment Scale": 0.4
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Eden",
+    "Count": 4,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Ball Corporation",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "DOT",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Canada",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "U.S.",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Europe",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "community telephony",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Barbie",
+    "Count": 2,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Semuta",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": 0,
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Denver",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Portland",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Los Angeles",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Utah",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Camp hookup is composed of an eclectic crew. Our playa mission is to hook you up with your needs to make your playa experience enjoyable. Armed with our magic hookup cases and their seemingly infinite capacity, we are equipped to take care of you. Wit\t1\t0\n2009\tentity",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 13,
+    "Sentiment Scale": 0.307692308
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 11,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 7,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Real Estate",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 69,
+    "Sentiment Scale": 0.985507246
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 20,
+    "Sentiment Scale": 0.9
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 10,
+    "Sentiment Scale": 0.9
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 7,
+    "Sentiment Scale": 0.857142857
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Science",
+    "Count": 5,
+    "Sentiment Scale": 0.8
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 5,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Robotics",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 4,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Traditional Energy",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Business",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Disasters",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Education",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Real Estate",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Renewable Energy",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 5,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "live music",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "palm trees",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "outer space",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "little bit",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "positive traces",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "positive vibes",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "entertainment galore",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "good times",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "full service",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "art car",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "4th year",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "good vibes",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "interactive art",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "time coordinates",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "silly school shenanigans",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "worlds masterpieces redone",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Lazy Lizard",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "spreading fun",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "legendary ski",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 34,
+    "Sentiment Scale": 0.235294118
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "the sun",
+    "Count": 11,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Ball Corporation",
+    "Count": 7,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": 0,
+    "Count": 6,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Dance",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "chair",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Portland",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "San Francisco, CA",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Beirut",
+    "Count": 2,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Black Rock",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Skyline Development",
+    "Count": 2,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Bacon",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "King",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Creative Word",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "daily specials",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Planetarium",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Dysfuntionally Disorganized Geology Types and Airstreameriers AKAirways is an art group based in New York City. Our focus is sculpture/installation. The inflatable objects and environments that we create are the central components of our installations\t1\t-1\n2010\tentity\tBlake\t1\t1\n2010\tentity",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 14,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 8,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 6,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Real Estate",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 65,
+    "Sentiment Scale": 0.969230769
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 15,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 9,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 9,
+    "Sentiment Scale": 0.555555556
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 5,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 5,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Robotics",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Renewable Energy",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Business",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Education",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Real Estate",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Pink Carpet",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Korova Milk",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Serene Luxury",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Ambiverts Pagoda",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Martian Powder",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Apocalypse Lounge",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Pyramid Portal",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Ashram Galactica Resort",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Titteebumpa aka",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Bad Idea",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "aka Terraform",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Bayesian Conspiracy",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Nose Fish",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Boonville Cabaret",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Porta-Potty Pigs",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "boot docks",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "RockStar Orphans",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Brain Freeze",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Stardust Lounge",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Ranger Outpost Tokyo",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Kegel Kamp",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Elvis Beer Garden",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Neighborhood Association",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "NOLA CORE",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Travel Agency",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "The Wanderer",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Brooklyn California",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "GEISHA HOUSE",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Campo Alegre",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Mansonian Institute",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Center for Depraved",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Pope Decadent",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Center for Unlearning",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Rock Hash House",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Center Of Gravity",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Village Green Preservation Society",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Charlie",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Eridu Society",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Traditional Energy",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Renewable Energy",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Mobile Devices",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Mystikal Misfits",
+    "Count": 2,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Rebirth Dilation Station",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Lost Boys",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Volcano Worshippers",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Ashram Galactica",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Playa Hardware",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Astral Headwash",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Spudville Dust Monkeys",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Bad Idea",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Lemonade Stand",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Bayesian Conspiracy",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Apocalypse Lounge",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "black hole",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Porta-Potty Pigs",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Boonville Cabaret",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Sensual Pleasures",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Brain Freeze",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Tahoe Twisted",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Adult Playground",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Project Green House",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Flow International",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Secret Society",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Spandex and Steroids",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Mr. Potato Head",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "The Resistance",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Root Society",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "ABC",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Ignited States",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Anti M",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Kegel Kamp",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Bijou Boutique",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Mystique",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Brewery",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Reno Housewives",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Center",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Santa",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Travel Agency",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "SEX Filth Avenue",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "BLM",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Hardware",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Disasters",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Banking",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Mobile Devices",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 32,
+    "Sentiment Scale": 0.3125
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "live music",
+    "Count": 11,
+    "Sentiment Scale": 0.090909091
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "burning man experience",
+    "Count": 5,
+    "Sentiment Scale": 0.4
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Mutant Vehicle",
+    "Count": 4,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "friendly folks",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "observation deck",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "misting tent",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "art car",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "open arms",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "electronic music",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "happy hours",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "little bit",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "self expression",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Friendly neighborhood",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "welcoming space",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "shuttle service",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Mutant Vehicles",
+    "Count": 2,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "living room",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "cold beer",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "relaxing place",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 36,
+    "Sentiment Scale": 0.111111111
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "the sun",
+    "Count": 7,
+    "Sentiment Scale": 0.285714286
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Desert",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Australia",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Canada",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Larry Harvey",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "John Frum",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Ball Corporation",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Tetanus Society",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "King",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Bacon",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Prince Philip",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Dr. Carl",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Brooklyn",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Eden",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Charlie",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Bathe",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Bowl-a-Rama",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Maple Bacon Margarita",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 16,
+    "Sentiment Scale": 0.3125
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 8,
+    "Sentiment Scale": 0.875
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 3,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 107,
+    "Sentiment Scale": 0.981308411
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 57,
+    "Sentiment Scale": 0.859649123
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 31,
+    "Sentiment Scale": 0.451612903
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 24,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 17,
+    "Sentiment Scale": 0.823529412
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 14,
+    "Sentiment Scale": 0.571428571
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 10,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Video Games",
+    "Count": 8,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Science",
+    "Count": 8,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 8,
+    "Sentiment Scale": 0.875
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 7,
+    "Sentiment Scale": 0.714285714
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 7,
+    "Sentiment Scale": 0.857142857
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Renewable Energy",
+    "Count": 7,
+    "Sentiment Scale": 0.714285714
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Health",
+    "Count": 7,
+    "Sentiment Scale": 0.714285714
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Business",
+    "Count": 6,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 5,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 5,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 4,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Education",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 28,
+    "Sentiment Scale": 0.285714286
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "live music",
+    "Count": 13,
+    "Sentiment Scale": 0.384615385
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Mutant Vehicle",
+    "Count": 6,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "chill space",
+    "Count": 6,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "weary travelers",
+    "Count": 5,
+    "Sentiment Scale": -0.2
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "happy hours",
+    "Count": 5,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "eclectic group",
+    "Count": 5,
+    "Sentiment Scale": -0.2
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "default world",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "happy hour",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "oriented camp",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "international group",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "home base",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "daily dose",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "burning man experience",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "desert heat",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "daily events",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "safe place",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "interactive workshops",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "self expression",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "little bit",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 39,
+    "Sentiment Scale": 0.205128205
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "The sun",
+    "Count": 10,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Ball Corporation",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Silk Road",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "judge",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "India",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Bathe",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Yes, &",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Joe",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Middle East",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Facebook",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": 12000,
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Flow International",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Chris Hadfield",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Desert",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Great Circle",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Solomon",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Marvel",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 21,
+    "Sentiment Scale": 0.238095238
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 11,
+    "Sentiment Scale": 0.090909091
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 8,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 7,
+    "Sentiment Scale": 0.285714286
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 2,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Real Estate",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 102,
+    "Sentiment Scale": 0.990196078
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 66,
+    "Sentiment Scale": 0.893939394
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 26,
+    "Sentiment Scale": 0.423076923
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 19,
+    "Sentiment Scale": 0.894736842
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 19,
+    "Sentiment Scale": 0.789473684
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 15,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 11,
+    "Sentiment Scale": 0.636363636
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 10,
+    "Sentiment Scale": 0.9
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 7,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Health",
+    "Count": 7,
+    "Sentiment Scale": 0.571428571
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Video Games",
+    "Count": 7,
+    "Sentiment Scale": 0.428571429
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 7,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 7,
+    "Sentiment Scale": 0.714285714
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 6,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Renewable Energy",
+    "Count": 6,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Science",
+    "Count": 5,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Education",
+    "Count": 5,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Business",
+    "Count": 5,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Real Estate",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 44,
+    "Sentiment Scale": 0.295454545
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "live music",
+    "Count": 12,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "support camp",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "happy hour",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "interactive camp",
+    "Count": 5,
+    "Sentiment Scale": 0.4
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "chill space",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "shade structure",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "fellow burners",
+    "Count": 5,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "weary travelers",
+    "Count": 5,
+    "Sentiment Scale": -0.4
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "southern hospitality",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "snow cones",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "art car",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "art cars",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "good vibes",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "true nature",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "safe place",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "neighborhood bar",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "daytime workshops",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "creative arts",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "delicious drinks",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "BLACK ROCK CITY",
+    "Count": 47,
+    "Sentiment Scale": 0.255319149
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "the sun",
+    "Count": 15,
+    "Sentiment Scale": 0.4
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Ball Corporation",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Flow International",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Australia",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Little House",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Black Rock",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Marvel",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Bathe",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "farmer",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Black Rock Desert",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Fun House",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "British Columbia",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Los Angeles",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Canada",
+    "Count": 2,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Monaco",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "New Zealand",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Barbie",
+    "Count": 2,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Seattle",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 23,
+    "Sentiment Scale": 0.260869565
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 16,
+    "Sentiment Scale": 0.8125
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 10,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 9,
+    "Sentiment Scale": 0.222222222
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 8,
+    "Sentiment Scale": 0.375
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 3,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Politics",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 137,
+    "Sentiment Scale": 0.99270073
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 75,
+    "Sentiment Scale": 0.866666667
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Space",
+    "Count": 46,
+    "Sentiment Scale": 0.391304348
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Food",
+    "Count": 27,
+    "Sentiment Scale": 0.925925926
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 26,
+    "Sentiment Scale": 0.769230769
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 20,
+    "Sentiment Scale": 0.45
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 15,
+    "Sentiment Scale": 0.933333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Business",
+    "Count": 10,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 10,
+    "Sentiment Scale": 0.4
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 9,
+    "Sentiment Scale": 0.777777778
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 9,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Science",
+    "Count": 9,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 9,
+    "Sentiment Scale": 0.777777778
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Renewable Energy",
+    "Count": 9,
+    "Sentiment Scale": 0.555555556
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 8,
+    "Sentiment Scale": 0.875
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Education",
+    "Count": 7,
+    "Sentiment Scale": 0.857142857
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Health",
+    "Count": 7,
+    "Sentiment Scale": 0.571428571
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Video Games",
+    "Count": 6,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 4,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Mobile Devices",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  }
+]
