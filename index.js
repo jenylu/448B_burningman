@@ -1,9 +1,7 @@
-// $('.outer').click(function(){
-//     // $(this).css('opacity', function(i,o){
-//     //     return parseFloat(o).toFixed(1) === '0.6' ? 1 : 0.6;
-//     // });
-// });
+$(".itemHeader").on("click", function() {
+    $(this).parent().toggleClass("selectedCol");
+}); 
 
-$(".outer").on("click", function() {
-    $(this).toggleClass("selectedCol");
+$(".legend").on("click", function() {
+    $(this).toggleClass("selected");
 }); 
