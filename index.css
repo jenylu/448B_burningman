@@ -8,6 +8,42 @@ body {
     float: right;
 }
 
+/* GRID LAYOUT */
+.outer {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
+}
+
+.item {
+  width: 150px;
+  height: 200px;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 10px;
+  border: 1px solid #687291;
+}
+
+.itemHeader {
+    width: 150px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.itemYear{
+    height: 200px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+}
+
 /*  SECTIONS  */
 .section {
     clear: both;
@@ -78,6 +114,27 @@ body {
     transform-origin: left top 0;
 }
 
+/* Category Filters */
+.itemHeader:hover {
+    cursor: pointer;
+    opacity: 0.6;
+    transition: all 0.3s ease 0s;
+}
+
+.themes:hover{
+    background: #C0C0C0;
+    opacity: 0.6;
+}
+
+.selectedCol {
+    background: #C0C0C0;
+    opacity: 0.6;
+}
+.itemYear:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    transition: all 0.3s ease 0s;
+}
 /* Legend Key */
 .my-legend .legend-title {
     text-align: left;
@@ -141,42 +198,41 @@ body {
     opacity: 1;
 }
 
-#wordcount {
-    background:#d62728;
-}
+#wordcount {background:#d62728;}
 
-#wordcount:hover {
-    opacity: 0.7;
-}
+#wordcount:hover {opacity: 0.7;}
 
-#theme {
-    background:#ff7f0e;
-}
+#theme {background:#ff7f0e;}
 
-#theme:hover {
-    opacity: 0.7;
-}
+#theme:hover {opacity: 0.7;}
 
-#entity {
-    background:#bcbd22;
-}
+#entity {background:#bcbd22;}
 
-#entity:hover {
-    opacity: 0.7;
-}
+#entity:hover {opacity: 0.7;}
 
-#query {
-    background:#9467bd;
-}
+#query {background:#9467bd;}
 
-#query:hover {
-    opacity: 0.7;
-}
+#query:hover {opacity: 0.7;}
 
-#category {
-    background:#17becf;
-}
+#category {background:#17becf;}
 
-#category:hover {
-    opacity: 0.7;
+#category:hover {opacity: 0.7;}
+
+
+
+/*.colHeader:hover ~ .vertical-text {
+    opacity: .5;
 }
+*/
+/*.colHeader:hover {
+    background: red;
+    color: #fff;
+}
+li:nth-child(2) a:hover {
+    background: blue;
+    color: #fff;
+}
+li:nth-child(3) a:hover {
+    background: green;
+    color: #fff;
+}*/
