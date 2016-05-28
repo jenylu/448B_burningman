@@ -1,0 +1,3845 @@
+[
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "photos",
+    "Count": 56,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 58,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "watch",
+    "Count": 60,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "updates",
+    "Count": 60,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "back",
+    "Count": 62,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "time",
+    "Count": 63,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "off",
+    "Count": 65,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 66,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "video",
+    "Count": 69,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "now",
+    "Count": 74,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 75,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "next",
+    "Count": 80,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": 2009,
+    "Count": 82,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "http://bit.ly/4nysem",
+    "Count": 83,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "see",
+    "Count": 85,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 94,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "watching",
+    "Count": 105,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 122,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 126,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 296,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "too",
+    "Count": 72,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "last",
+    "Count": 73,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "say",
+    "Count": 73,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "next",
+    "Count": 74,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "see",
+    "Count": 75,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "system",
+    "Count": 76,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 79,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "off",
+    "Count": 85,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "could",
+    "Count": 90,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "phone",
+    "Count": 91,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 94,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "cell",
+    "Count": 116,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 118,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 122,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "source",
+    "Count": 127,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "open",
+    "Count": 136,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": 2010,
+    "Count": 138,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "http://ustre.am/kd8b",
+    "Count": 165,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "webcast",
+    "Count": 170,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 314,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 112,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "way",
+    "Count": 112,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "watch",
+    "Count": 115,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "now",
+    "Count": 116,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "see",
+    "Count": 116,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "time",
+    "Count": 132,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "next",
+    "Count": 143,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "off",
+    "Count": 145,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "desert",
+    "Count": 147,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 149,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 150,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "watching",
+    "Count": 151,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": 2011,
+    "Count": 159,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "people",
+    "Count": 166,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 181,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 202,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 270,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "ustream.tv/burningman",
+    "Count": 288,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "webcast",
+    "Count": 289,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 337,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 77,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "here",
+    "Count": 77,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "watch",
+    "Count": 78,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "come",
+    "Count": 78,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 80,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "nevada",
+    "Count": 82,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "people",
+    "Count": 85,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "now",
+    "Count": 86,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "fertility",
+    "Count": 87,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "fat",
+    "Count": 96,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 96,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "photos",
+    "Count": 100,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "desert",
+    "Count": 102,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 118,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 129,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "webcast",
+    "Count": 136,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "ustre.am/kd8b",
+    "Count": 224,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": 2012,
+    "Count": 259,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 276,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 309,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "tech",
+    "Count": 134,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "nevada",
+    "Count": 136,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "see",
+    "Count": 138,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 138,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "day",
+    "Count": 143,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "time",
+    "Count": 152,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "week",
+    "Count": 155,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 164,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "right",
+    "Count": 167,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 171,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "people",
+    "Count": 176,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "desert",
+    "Count": 208,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "now",
+    "Count": 218,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 218,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 227,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "do",
+    "Count": 228,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "next",
+    "Count": 234,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": 2013,
+    "Count": 303,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 325,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 359,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "do",
+    "Count": 140,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "way",
+    "Count": 155,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "day",
+    "Count": 157,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 158,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": 2014,
+    "Count": 161,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "time",
+    "Count": 177,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "next",
+    "Count": 180,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 186,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "tech",
+    "Count": 201,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "people",
+    "Count": 211,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "time-lapse",
+    "Count": 211,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "desert",
+    "Count": 228,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "due",
+    "Count": 241,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "now",
+    "Count": 247,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 249,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 276,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "rain",
+    "Count": 293,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "closed",
+    "Count": 306,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 333,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 380,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "week",
+    "Count": 144,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "day",
+    "Count": 145,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "do",
+    "Count": 147,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "playa",
+    "Count": 148,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "time",
+    "Count": 154,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "new",
+    "Count": 171,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "don't",
+    "Count": 175,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "year",
+    "Count": 183,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "agents",
+    "Count": 203,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "live",
+    "Count": 212,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "art",
+    "Count": 224,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "why",
+    "Count": 224,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "people",
+    "Count": 227,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "desert",
+    "Count": 243,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": 2015,
+    "Count": 248,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "going",
+    "Count": 254,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "#burningman2015",
+    "Count": 340,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "go",
+    "Count": 387,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "fbi",
+    "Count": 442,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "wordcount",
+    "Word": "festival",
+    "Count": 634,
+    "Sentiment Scale": "null"
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 36,
+    "Sentiment Scale": 0.055555556
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Updates",
+    "Count": 15,
+    "Sentiment Scale": 0.533333333
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "watching Burning man",
+    "Count": 11,
+    "Sentiment Scale": 0.090909091
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "live stream",
+    "Count": 8,
+    "Sentiment Scale": -0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "live video stream",
+    "Count": 7,
+    "Sentiment Scale": 0.142857143
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "live feed",
+    "Count": 6,
+    "Sentiment Scale": -0.333333333
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "burning man festival",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "burning man photos",
+    "Count": 6,
+    "Sentiment Scale": -0.333333333
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man beacuse",
+    "Count": 6,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "live video feed",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "real life obligations",
+    "Count": 5,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "photo gallery",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Ustream feed",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man today",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man rule",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Porn Shots",
+    "Count": 4,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning man ticket",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Burning Man event",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "Live video broadcast",
+    "Count": 4,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "theme",
+    "Word": "2 burning man",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "#burningman",
+    "Count": 107,
+    "Sentiment Scale": 0.14953271
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@burningman",
+    "Count": 52,
+    "Sentiment Scale": 0.038461538
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@laughingsquid",
+    "Count": 18,
+    "Sentiment Scale": -0.166666667
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "twitter",
+    "Count": 16,
+    "Sentiment Scale": -0.4375
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "#fb",
+    "Count": 16,
+    "Sentiment Scale": 0.0625
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "#bman09",
+    "Count": 10,
+    "Sentiment Scale": 0.3
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 10,
+    "Sentiment Scale": -0.2
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@Burning",
+    "Count": 9,
+    "Sentiment Scale": 0.222222222
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 8,
+    "Sentiment Scale": 0.375
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@strobist",
+    "Count": 7,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 7,
+    "Sentiment Scale": -0.285714286
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@blackrockcity",
+    "Count": 7,
+    "Sentiment Scale": 0.142857143
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "#bm09",
+    "Count": 7,
+    "Sentiment Scale": -0.285714286
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "Reno",
+    "Count": 6,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@unucc",
+    "Count": 6,
+    "Sentiment Scale": -0.666666667
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "US",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@timoreilly",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@ustream",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@rgj",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "entity",
+    "Word": "@brady",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 56,
+    "Sentiment Scale": -0.267857143
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 7,
+    "Sentiment Scale": -0.285714286
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 25,
+    "Sentiment Scale": 0.8
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 4,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2009,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 53,
+    "Sentiment Scale": 0.377358491
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "source cell phone system",
+    "Count": 45,
+    "Sentiment Scale": 0.533333333
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man fans",
+    "Count": 17,
+    "Sentiment Scale": -0.529411765
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man festival",
+    "Count": 11,
+    "Sentiment Scale": 0.090909091
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "heavy hand",
+    "Count": 8,
+    "Sentiment Scale": -0.625
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "famous arts festival",
+    "Count": 6,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning",
+    "Count": 6,
+    "Sentiment Scale": -0.166666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "live feed",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man people",
+    "Count": 6,
+    "Sentiment Scale": -0.166666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "live stream",
+    "Count": 5,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Double rainbow",
+    "Count": 5,
+    "Sentiment Scale": 0.4
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning Man",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Maybe next",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "great time",
+    "Count": 4,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Project",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "open source cell phone system",
+    "Count": 4,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "desert festival",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Watching Burning Man",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "Burning Man installations",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "theme",
+    "Word": "live video stream",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "#BurningMan",
+    "Count": 159,
+    "Sentiment Scale": 0.150943396
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@BurningMan",
+    "Count": 70,
+    "Sentiment Scale": 0.114285714
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "cops",
+    "Count": 31,
+    "Sentiment Scale": -0.774193548
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "nevada",
+    "Count": 29,
+    "Sentiment Scale": 0.103448276
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 13,
+    "Sentiment Scale": 0.076923077
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "twitter",
+    "Count": 11,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "#fb",
+    "Count": 10,
+    "Sentiment Scale": 0.1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@blackrockcity",
+    "Count": 10,
+    "Sentiment Scale": 0.3
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@burning",
+    "Count": 10,
+    "Sentiment Scale": 0.7
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 8,
+    "Sentiment Scale": 0.625
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@_chrisgarcia",
+    "Count": 7,
+    "Sentiment Scale": 0.428571429
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@IamCarmit",
+    "Count": 6,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "#brc2010",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Open Source Cell Phone System",
+    "Count": 5,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "#News",
+    "Count": 5,
+    "Sentiment Scale": 0.8
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Reno",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@addthis",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "Joshua Glazer",
+    "Count": 4,
+    "Sentiment Scale": -0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "August 19",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "entity",
+    "Word": "@JPBarlow",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 50,
+    "Sentiment Scale": 0.06
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 13,
+    "Sentiment Scale": 0.230769231
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 9,
+    "Sentiment Scale": 0.888888889
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 3,
+    "Sentiment Scale": -0.666666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 36,
+    "Sentiment Scale": 0.916666667
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Mobile Devices",
+    "Count": 18,
+    "Sentiment Scale": 0.888888889
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Crime",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2010,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Burning Man festival",
+    "Count": 71,
+    "Sentiment Scale": 0.309859155
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 71,
+    "Sentiment Scale": 0.507042254
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "burning home",
+    "Count": 33,
+    "Sentiment Scale": 0.848484848
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Toy poodle",
+    "Count": 27,
+    "Sentiment Scale": 0.888888889
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning Man",
+    "Count": 15,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "25th anniversary",
+    "Count": 14,
+    "Sentiment Scale": 0.785714286
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "record crowd",
+    "Count": 13,
+    "Sentiment Scale": 0.307692308
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "25th year",
+    "Count": 12,
+    "Sentiment Scale": 0.583333333
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Policy",
+    "Count": 12,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "crazy pictures",
+    "Count": 11,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Growing Pains",
+    "Count": 11,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "burning car",
+    "Count": 10,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "live stream",
+    "Count": 10,
+    "Sentiment Scale": -0.2
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "live broadcast",
+    "Count": 10,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Eclectic Burning Man festival",
+    "Count": 10,
+    "Sentiment Scale": 0.6
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "Burning Man alternative",
+    "Count": 9,
+    "Sentiment Scale": 0.444444444
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "annual Burning Man festival",
+    "Count": 9,
+    "Sentiment Scale": 0.444444444
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "live webcast",
+    "Count": 9,
+    "Sentiment Scale": 0.111111111
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "white-out dust storm",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "theme",
+    "Word": "burning man people",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "#burningman",
+    "Count": 292,
+    "Sentiment Scale": 0.267123288
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@burningman",
+    "Count": 106,
+    "Sentiment Scale": 0.226415094
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 62,
+    "Sentiment Scale": 0.322580645
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Rod Garrett",
+    "Count": 24,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@sfgate",
+    "Count": 24,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 23,
+    "Sentiment Scale": 0.173913043
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@Ustream",
+    "Count": 21,
+    "Sentiment Scale": 0.285714286
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@YouTube",
+    "Count": 17,
+    "Sentiment Scale": 0.588235294
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@YourAuntDiane",
+    "Count": 14,
+    "Sentiment Scale": 0.214285714
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "#burning",
+    "Count": 12,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 12,
+    "Sentiment Scale": 0.416666667
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "Adam",
+    "Count": 11,
+    "Sentiment Scale": 0.454545455
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "#fb",
+    "Count": 11,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "twitter",
+    "Count": 11,
+    "Sentiment Scale": 0.272727273
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@WSJ",
+    "Count": 9,
+    "Sentiment Scale": 0.444444444
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@adamlambert",
+    "Count": 8,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "#brc2011",
+    "Count": 8,
+    "Sentiment Scale": 0.625
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@Burning",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "@addthis",
+    "Count": 7,
+    "Sentiment Scale": 0.428571429
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "entity",
+    "Word": "#bm2011",
+    "Count": 7,
+    "Sentiment Scale": 0.142857143
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 63,
+    "Sentiment Scale": 0.126984127
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 13,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 11,
+    "Sentiment Scale": 0.090909091
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "query",
+    "Word": "Politics",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 67,
+    "Sentiment Scale": 0.895522388
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 12,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 8,
+    "Sentiment Scale": 0.875
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Social Media",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Business",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Agriculture",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2011,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 64,
+    "Sentiment Scale": 0.34375
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Burning Man festival",
+    "Count": 50,
+    "Sentiment Scale": 0.14
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "music festival",
+    "Count": 17,
+    "Sentiment Scale": 0.411764706
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "missing Burning man",
+    "Count": 16,
+    "Sentiment Scale": -0.25
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Oral History",
+    "Count": 16,
+    "Sentiment Scale": 0.4375
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "live broadcast",
+    "Count": 12,
+    "Sentiment Scale": -0.083333333
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Much Fun",
+    "Count": 10,
+    "Sentiment Scale": 0.9
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Leanbody System",
+    "Count": 9,
+    "Sentiment Scale": 0.222222222
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "burning man photos",
+    "Count": 8,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "live webcast",
+    "Count": 8,
+    "Sentiment Scale": 0.125
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "little videos",
+    "Count": 7,
+    "Sentiment Scale": -0.142857143
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "week-long festival",
+    "Count": 7,
+    "Sentiment Scale": 0.857142857
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "watching burningman",
+    "Count": 7,
+    "Sentiment Scale": 0.142857143
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "art car",
+    "Count": 7,
+    "Sentiment Scale": -0.142857143
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Amendment-free zone",
+    "Count": 7,
+    "Sentiment Scale": 0.285714286
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Exodus",
+    "Count": 6,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "burning man today",
+    "Count": 5,
+    "Sentiment Scale": -0.4
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "bucket list",
+    "Count": 5,
+    "Sentiment Scale": -0.4
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "theme",
+    "Word": "roaming Burning Man",
+    "Count": 5,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 50,
+    "Sentiment Scale": 0.06
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 15,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 14,
+    "Sentiment Scale": -0.285714286
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 5,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 1,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "#BurningMan",
+    "Count": 214,
+    "Sentiment Scale": 0.242990654
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@burningman",
+    "Count": 72,
+    "Sentiment Scale": 0.319444444
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 42,
+    "Sentiment Scale": -0.047619048
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@Ustream",
+    "Count": 15,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@guardian",
+    "Count": 15,
+    "Sentiment Scale": 0.266666667
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 13,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@BURNING",
+    "Count": 13,
+    "Sentiment Scale": 0.384615385
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@MailOnline",
+    "Count": 13,
+    "Sentiment Scale": 0.384615385
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "twitter",
+    "Count": 12,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "BLM",
+    "Count": 11,
+    "Sentiment Scale": 0.454545455
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@YouTube",
+    "Count": 10,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@Black",
+    "Count": 9,
+    "Sentiment Scale": 0.222222222
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Larry Harvey",
+    "Count": 9,
+    "Sentiment Scale": 0.444444444
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@pandodaily",
+    "Count": 8,
+    "Sentiment Scale": -0.25
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 7,
+    "Sentiment Scale": 0.142857143
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@guardianphotos",
+    "Count": 7,
+    "Sentiment Scale": -0.142857143
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Founder",
+    "Count": 7,
+    "Sentiment Scale": 0.428571429
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "@msnNOW",
+    "Count": 6,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "Black Rock",
+    "Count": 6,
+    "Sentiment Scale": -0.333333333
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "entity",
+    "Word": "#art",
+    "Count": 6,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 49,
+    "Sentiment Scale": 0.897959184
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 10,
+    "Sentiment Scale": 0.8
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Video Games",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Beverages",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2012,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 122,
+    "Sentiment Scale": 0.418032787
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "hot spot",
+    "Count": 53,
+    "Sentiment Scale": 0.716981132
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "burning man festival",
+    "Count": 46,
+    "Sentiment Scale": 0.043478261
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "tech titans",
+    "Count": 43,
+    "Sentiment Scale": 0.558139535
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Crowd",
+    "Count": 26,
+    "Sentiment Scale": 0.230769231
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "official Burning Man map",
+    "Count": 25,
+    "Sentiment Scale": 0.24
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning Man",
+    "Count": 17,
+    "Sentiment Scale": 0.176470588
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "mysterious puzzle game",
+    "Count": 17,
+    "Sentiment Scale": 0.294117647
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "music festival",
+    "Count": 14,
+    "Sentiment Scale": 0.214285714
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Satellite image",
+    "Count": 12,
+    "Sentiment Scale": 0.416666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "art car",
+    "Count": 11,
+    "Sentiment Scale": -0.181818182
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "burning man people",
+    "Count": 11,
+    "Sentiment Scale": 0.272727273
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "burning man pic",
+    "Count": 11,
+    "Sentiment Scale": 0.181818182
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "reinventing society",
+    "Count": 10,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "live stream",
+    "Count": 9,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "aerial view",
+    "Count": 9,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "expression festival",
+    "Count": 9,
+    "Sentiment Scale": -0.222222222
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Federal agents",
+    "Count": 9,
+    "Sentiment Scale": 0.111111111
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Aerial shot",
+    "Count": 9,
+    "Sentiment Scale": 0.444444444
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "theme",
+    "Word": "Corporate Retreat",
+    "Count": 8,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "#BurningMan",
+    "Count": 423,
+    "Sentiment Scale": 0.26713948
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@burningman",
+    "Count": 151,
+    "Sentiment Scale": 0.218543046
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 66,
+    "Sentiment Scale": 0.46969697
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Twitter",
+    "Count": 33,
+    "Sentiment Scale": 0.212121212
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 29,
+    "Sentiment Scale": 0.172413793
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@FastCompany",
+    "Count": 26,
+    "Sentiment Scale": -0.038461538
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@Burning",
+    "Count": 22,
+    "Sentiment Scale": 0.363636364
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@SFGate",
+    "Count": 22,
+    "Sentiment Scale": 0.318181818
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@diplo",
+    "Count": 19,
+    "Sentiment Scale": -0.105263158
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Gregory Ferenstein",
+    "Count": 17,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 16,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": 34963,
+    "Count": 15,
+    "Sentiment Scale": 0.266666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@learnisttweets",
+    "Count": 15,
+    "Sentiment Scale": 0.266666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "#BlackRockCity",
+    "Count": 12,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "#Nevada",
+    "Count": 12,
+    "Sentiment Scale": -0.083333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@youtube",
+    "Count": 11,
+    "Sentiment Scale": 0.454545455
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "#tech",
+    "Count": 10,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "#playa",
+    "Count": 10,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@capetown_chick",
+    "Count": 9,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "entity",
+    "Word": "@GOOD",
+    "Count": 9,
+    "Sentiment Scale": -0.111111111
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 142,
+    "Sentiment Scale": 0.084507042
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 29,
+    "Sentiment Scale": 0.137931034
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 24,
+    "Sentiment Scale": 0.041666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 19,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 11,
+    "Sentiment Scale": 0.090909091
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 4,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 73,
+    "Sentiment Scale": 0.863013699
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 11,
+    "Sentiment Scale": 0.727272727
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 6,
+    "Sentiment Scale": 0.833333333
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 3,
+    "Sentiment Scale": 0.666666667
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Video Games",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2013,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man",
+    "Count": 100,
+    "Sentiment Scale": 0.05
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "burning man festival",
+    "Count": 73,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Time-Lapses",
+    "Count": 50,
+    "Sentiment Scale": 0.08
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Time-Lapse",
+    "Count": 49,
+    "Sentiment Scale": 0.12244898
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Worthless Currency Exchange",
+    "Count": 34,
+    "Sentiment Scale": -0.941176471
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Huge Burning Man",
+    "Count": 24,
+    "Sentiment Scale": 0.458333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "ruining Burning Man",
+    "Count": 22,
+    "Sentiment Scale": -0.727272727
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "tech elites",
+    "Count": 21,
+    "Sentiment Scale": 0.428571429
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Heavy rain",
+    "Count": 20,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Incredible Burning",
+    "Count": 16,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "opening day",
+    "Count": 16,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Founders",
+    "Count": 15,
+    "Sentiment Scale": 0.2
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "ruining Burning Man festival",
+    "Count": 15,
+    "Sentiment Scale": -0.866666667
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Today",
+    "Count": 13,
+    "Sentiment Scale": 0.153846154
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning Man",
+    "Count": 12,
+    "Sentiment Scale": -0.083333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man pic",
+    "Count": 12,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Awesome Burning Man",
+    "Count": 12,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man attendees",
+    "Count": 11,
+    "Sentiment Scale": 0.181818182
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "tech conference",
+    "Count": 10,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Name",
+    "Count": 10,
+    "Sentiment Scale": -0.2
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#burningman",
+    "Count": 487,
+    "Sentiment Scale": 0.158110883
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "@burningman",
+    "Count": 205,
+    "Sentiment Scale": 0.087804878
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 33,
+    "Sentiment Scale": 0.181818182
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "twitter",
+    "Count": 33,
+    "Sentiment Scale": 0.121212121
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#photography",
+    "Count": 28,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "@NellieBowles",
+    "Count": 28,
+    "Sentiment Scale": 0.107142857
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "@Burning",
+    "Count": 22,
+    "Sentiment Scale": 0.181818182
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "@TechCrunch",
+    "Count": 20,
+    "Sentiment Scale": 0.3
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Grover Norquist",
+    "Count": 19,
+    "Sentiment Scale": 0.473684211
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#playa",
+    "Count": 18,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 17,
+    "Sentiment Scale": 0.235294118
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#ticket",
+    "Count": 17,
+    "Sentiment Scale": 0.941176471
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#bitcoin",
+    "Count": 17,
+    "Sentiment Scale": -0.117647059
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#arts",
+    "Count": 16,
+    "Sentiment Scale": 0.0625
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "@voxdotcom",
+    "Count": 16,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#tech",
+    "Count": 15,
+    "Sentiment Scale": 0.466666667
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 13,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "#burners",
+    "Count": 12,
+    "Sentiment Scale": 0.166666667
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "Reno",
+    "Count": 12,
+    "Sentiment Scale": 0.583333333
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "entity",
+    "Word": "@TreyRatcliff",
+    "Count": 11,
+    "Sentiment Scale": 0.545454545
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 178,
+    "Sentiment Scale": -0.011235955
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 31,
+    "Sentiment Scale": -0.225806452
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 23,
+    "Sentiment Scale": -0.086956522
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 21,
+    "Sentiment Scale": 0.047619048
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 19,
+    "Sentiment Scale": 0.052631579
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 8,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 7,
+    "Sentiment Scale": 0.285714286
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 4,
+    "Sentiment Scale": -0.25
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 2,
+    "Sentiment Scale": -0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 87,
+    "Sentiment Scale": 0.850574713
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 67,
+    "Sentiment Scale": 0.47761194
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 10,
+    "Sentiment Scale": 0.9
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Law",
+    "Count": 8,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 8,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 6,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Disasters",
+    "Count": 4,
+    "Sentiment Scale": 0.75
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Banking",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Crime",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Robotics",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Advertising",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Economics",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2014,
+    "NLP Technique": "category",
+    "Word": "Health",
+    "Count": 1,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man festival",
+    "Count": 157,
+    "Sentiment Scale": -0.01910828
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "burning man",
+    "Count": 90,
+    "Sentiment Scale": 0.077777778
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man founder",
+    "Count": 44,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "white folks",
+    "Count": 32,
+    "Sentiment Scale": -0.0625
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man https",
+    "Count": 25,
+    "Sentiment Scale": -0.12
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "annual Burning Man festival",
+    "Count": 25,
+    "Sentiment Scale": -0.2
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man Burning Man",
+    "Count": 21,
+    "Sentiment Scale": 0.142857143
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "wireless network",
+    "Count": 18,
+    "Sentiment Scale": 0.111111111
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "permanent Burning Man city",
+    "Count": 18,
+    "Sentiment Scale": 0.111111111
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Man https",
+    "Count": 17,
+    "Sentiment Scale": 0.176470588
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Car",
+    "Count": 17,
+    "Sentiment Scale": 0.529411765
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man organizers",
+    "Count": 15,
+    "Sentiment Scale": 0.733333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "live stream",
+    "Count": 14,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "great time",
+    "Count": 14,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "intelligence collection",
+    "Count": 14,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Burning Man photos",
+    "Count": 13,
+    "Sentiment Scale": 0.076923077
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "stunning photos",
+    "Count": 13,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "insane art",
+    "Count": 13,
+    "Sentiment Scale": -1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "permanent home",
+    "Count": 13,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "theme",
+    "Word": "Chinese parades",
+    "Count": 13,
+    "Sentiment Scale": -0.461538462
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "#BurningMan",
+    "Count": 411,
+    "Sentiment Scale": 0.092457421
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "FBI",
+    "Count": 190,
+    "Sentiment Scale": -0.1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "@BurningMan",
+    "Count": 164,
+    "Sentiment Scale": 0.103658537
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Nevada",
+    "Count": 61,
+    "Sentiment Scale": 0.131147541
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "#burningman2015",
+    "Count": 51,
+    "Sentiment Scale": 0.098039216
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "@Burning",
+    "Count": 45,
+    "Sentiment Scale": 0.133333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Susan Sarandon",
+    "Count": 36,
+    "Sentiment Scale": 0.388888889
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "founder",
+    "Count": 33,
+    "Sentiment Scale": -0.303030303
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "@YouTube",
+    "Count": 32,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "@diplo",
+    "Count": 29,
+    "Sentiment Scale": 0.034482759
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "@MailOnline",
+    "Count": 28,
+    "Sentiment Scale": 0.035714286
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Black Rock City",
+    "Count": 27,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Sergey Brin",
+    "Count": 24,
+    "Sentiment Scale": -0.125
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "San Francisco",
+    "Count": 23,
+    "Sentiment Scale": 0.304347826
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "twitter",
+    "Count": 18,
+    "Sentiment Scale": -0.111111111
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "@usatoday",
+    "Count": 17,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "#FBI",
+    "Count": 15,
+    "Sentiment Scale": -0.133333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "#news",
+    "Count": 14,
+    "Sentiment Scale": 0.071428571
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "#art",
+    "Count": 13,
+    "Sentiment Scale": -0.076923077
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "entity",
+    "Word": "Grover Norquist",
+    "Count": 11,
+    "Sentiment Scale": -0.181818182
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Technology",
+    "Count": 126,
+    "Sentiment Scale": -0.079365079
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Disasters",
+    "Count": 47,
+    "Sentiment Scale": -0.255319149
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Education",
+    "Count": 22,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Health",
+    "Count": 21,
+    "Sentiment Scale": 0.047619048
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Environment",
+    "Count": 17,
+    "Sentiment Scale": -0.588235294
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Sports",
+    "Count": 8,
+    "Sentiment Scale": -0.125
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Business",
+    "Count": 7,
+    "Sentiment Scale": -0.142857143
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Real Estate",
+    "Count": 4,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Popular Culture",
+    "Count": 3,
+    "Sentiment Scale": 0.333333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Religion",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "query",
+    "Word": "Science",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Art",
+    "Count": 147,
+    "Sentiment Scale": 0.857142857
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Automotive",
+    "Count": 30,
+    "Sentiment Scale": 0.833333333
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Real Estate",
+    "Count": 10,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Weather",
+    "Count": 4,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Fashion",
+    "Count": 4,
+    "Sentiment Scale": 0.25
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Disasters",
+    "Count": 3,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Technology",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Travel",
+    "Count": 2,
+    "Sentiment Scale": 0.5
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Crime",
+    "Count": 2,
+    "Sentiment Scale": 0
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Marriage",
+    "Count": 2,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Software and Internet",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Robotics",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Sports",
+    "Count": 1,
+    "Sentiment Scale": 1
+  },
+  {
+    "Year": 2015,
+    "NLP Technique": "category",
+    "Word": "Hotels",
+    "Count": 1,
+    "Sentiment Scale": 0
+  }
+]
