@@ -1,3 +1,4 @@
+
 // $('.outer').click(function(){
 //     // $(this).css('opacity', function(i,o){
 //     //     return parseFloat(o).toFixed(1) === '0.6' ? 1 : 0.6;
@@ -8,11 +9,13 @@ var techniques = ["wordcount", "theme", "entity", "query", "category"];
 var default_technique = "wordcount";
 var years = ["2009", "2010", "2011", "2012", "2013", "2014", "2015"];
 
-$(".outer").on("click", function() {
-    $(this).toggleClass("selectedCol");
-}); 
+// $(".outer").on("click", function() {
+//     $(this).toggleClass("selectedCol");
+// }); 
 
 for (z = 0; z < 1; z ++) {
+
+	//if (z == 0 || z == 4) {
 
 	datatype = datatypes[z];
 
@@ -46,4 +49,14 @@ for (z = 0; z < 1; z ++) {
 	 //break;
 
  	});
+
+	//}
 }
+
+$(".itemHeader").on("click", function() {
+    $(this).parent().toggleClass("selectedCol");
+}); 
+
+$(".legend").on("click", function() {
+    $(this).toggleClass("selected");
+}); 
