@@ -1,8 +1,12 @@
+body {
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
 .container {
     width: 80%;
     float: right;
 }
-
 
 /*  SECTIONS  */
 .section {
