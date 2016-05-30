@@ -44,7 +44,7 @@ function showWordCount(technique) {
 	        	var div = document.getElementById('bm_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#bm_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
+		        $('#bm_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -73,7 +73,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('event_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#event_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
+		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -102,7 +102,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('art_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#art_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
+		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -131,7 +131,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('camp_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#camp_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
+		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -160,7 +160,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('twitter_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#twitter_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
+		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -181,7 +181,28 @@ $(".itemHeader").on("click", function() {
 	}
 
     $(this).toggleClass("selectedCol");
+
+    //see if there are multiple sets selected; find intersection
+
+    updateIntersection();
 }); 
+
+function updateIntersection() {
+	var selected_categories = document.getElementsByClassName("selectedCol");
+    console.log(selected_categories);
+
+    if (selected_categories.length > 1) {
+    	console.log("Entered");
+
+    	var categories = []
+
+    	for (i = 0; i < selected_categories.length; i ++) {
+    		categories.push(selected_categories[i].innerHTML.toLowerCase());
+    	}
+
+    	console.log(categories);
+    }
+}
 
 $(".legend.tech").on("click", function() {
 
@@ -225,3 +246,20 @@ $(".legend.year").on("click", function() {
 // 	console.log(selectedTechnique);
 //     showWordCount(selectedTechnique);
 // }); 
+
+function showThisWord(word) {
+	word = word.substring(1, word.length - 2);
+
+	var selected_categories = document.getElementsByClassName("selectedCol");
+    console.log(selected_categories);
+
+    for (i = 0; i < selected_categories.length; i ++) {
+    	cur_category = selected_categories[i].innerHTML.toLowerCase();
+    	console.log(cur_category);
+    	$(".item." + cur_category).css('color', '#D3D3D3');
+    	$('.' + cur_category + ' > .word.' + word).css('color', 'black');
+    }
+
+
+}
+
