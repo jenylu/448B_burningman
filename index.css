@@ -1,6 +1,7 @@
 body {
     /*font-family: 'Roboto Slab', serif;*/
     font-family: 'Open Sans', sans-serif;
+    width:98%;
 }
 
 .container {
@@ -30,6 +31,7 @@ body {
   text-align: center;
   margin-top: 10px;
   border: 1px solid #dfe0ff;
+  color: #D3D3D3;
 }
 
 .header {
@@ -73,7 +75,9 @@ body {
 
 /* Legend Key */
 .filterSection {
-    margin-left:20px;
+    float: left;
+    margin-top: 50px;
+    margin-left:50px;
 }
 
 .my-legend .legend-title {
@@ -119,6 +123,10 @@ body {
 
 .my-legend a {
     color: #777;
+}
+
+.my-legend {
+    padding-top: 50px;
 }
 
 .legend:hover {

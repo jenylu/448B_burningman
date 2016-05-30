@@ -172,6 +172,14 @@ function showWordCount(technique) {
 
 $(".itemHeader").on("click", function() {
     //$(this).parent().toggleClass("selectedCol");
+    selected_title = this.innerHTML.toLowerCase();
+
+	if ($(this).hasClass("selectedCol")) {
+		$("." + selected_title).css('color', '#D3D3D3');
+	} else {
+		$("." + selected_title).css('color', 'black');
+	}
+
     $(this).toggleClass("selectedCol");
 }); 
 
