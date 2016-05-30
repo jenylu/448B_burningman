@@ -37,9 +37,25 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+		        word = word.toString();
 		        count = object['Count'];
 		        sentiment_scale = object['Sentiment Scale'];
 		        //console.log(word, count, sentiment_scale);
+
+		     	var new_word = "";
+
+		        if (word.indexOf(' ') >= 0) {
+		        	wordlist = word.split(" ");
+		        	for (h = 0; h < wordlist.length; h ++) {
+		        		if (new_word != "") {
+		        			new_word = new_word.concat("-" + wordlist[h]);
+		        		} else {
+		        			new_word = new_word.concat(wordlist[h]);
+		        		}
+		        	}
+		        } else {
+		        	new_word = word;
+		        }
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -49,7 +65,7 @@ function showWordCount(technique) {
 	        	var div = document.getElementById('bm_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#bm_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
+		        $('#bm_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -74,6 +90,22 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+		        word = word.toString();
+
+		        var new_word = "";
+
+		        if (word.indexOf(' ') >= 0) {
+		        	wordlist = word.split(" ");
+		        	for (h = 0; h < wordlist.length; h ++) {
+		        		if (new_word != "") {
+		        			new_word = new_word.concat("-" + wordlist[h]);
+		        		} else {
+		        			new_word = new_word.concat(wordlist[h]);
+		        		}
+		        	}
+		        } else {
+		        	new_word = word;
+		        }
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -83,7 +115,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('event_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
+		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -108,6 +140,22 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+		        word = word.toString();
+
+		        var new_word = "";
+
+		        if (word.indexOf(' ') >= 0) {
+		        	wordlist = word.split(" ");
+		        	for (h = 0; h < wordlist.length; h ++) {
+		        		if (new_word != "") {
+		        			new_word = new_word.concat("-" + wordlist[h]);
+		        		} else {
+		        			new_word = new_word.concat(wordlist[h]);
+		        		}
+		        	}
+		        } else {
+		        	new_word = word;
+		        }
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -117,7 +165,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('art_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
+		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -142,6 +190,22 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+		        word = word.toString();
+
+		        var new_word = "";
+
+		        if (word.indexOf(' ') >= 0) {
+		        	wordlist = word.split(" ");
+		        	for (h = 0; h < wordlist.length; h ++) {
+		        		if (new_word != "") {
+		        			new_word = new_word.concat("-" + wordlist[h]);
+		        		} else {
+		        			new_word = new_word.concat(wordlist[h]);
+		        		}
+		        	}
+		        } else {
+		        	new_word = word;
+		        }
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -151,7 +215,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('camp_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
+		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -176,6 +240,22 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+		        word = word.toString();
+
+		        var new_word = "";
+
+		        if (word.indexOf(' ') >= 0) {
+		        	wordlist = word.split(" ");
+		        	for (h = 0; h < wordlist.length; h ++) {
+		        		if (new_word != "") {
+		        			new_word = new_word.concat("-" + wordlist[h]);
+		        		} else {
+		        			new_word = new_word.concat(wordlist[h]);
+		        		}
+		        	}
+		        } else {
+		        	new_word = word;
+		        }
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -185,7 +265,7 @@ function showWordCount(technique) {
 		        var div = document.getElementById('twitter_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + word +'">['+word+"] "+'</span>');
+		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
@@ -275,7 +355,24 @@ $(".legend.year").on("click", function() {
 // }); 
 
 function showThisWord(word) {
+	console.log(word);
 	word = word.toString().substring(1, word.length - 2);
+	console.log(word);
+
+	var new_word = "";
+
+    if (word.indexOf(' ') >= 0) {
+    	wordlist = word.split(" ");
+    	for (h = 0; h < wordlist.length; h ++) {
+    		if (new_word != "") {
+    			new_word = new_word.concat("-" + wordlist[h]);
+    		} else {
+    			new_word = new_word.concat(wordlist[h]);
+    		}
+    	}
+    } else {
+    	new_word = word;
+    }
 
 	var selected_categories = document.getElementsByClassName("selectedCol");
     console.log(selected_categories);
@@ -285,7 +382,7 @@ function showThisWord(word) {
     	console.log(cur_category);
     	$(".item." + cur_category).css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
-    	$('.' + cur_category + ' > .word.' + word).css('color', 'black');
+    	$('.' + cur_category + ' > .word.' + new_word).css('color', 'black');
     }
 
 
