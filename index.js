@@ -13,9 +13,9 @@ var years = ["2009", "2010", "2011", "2012", "2013", "2014", "2015"];
 //     $(this).toggleClass("selectedCol");
 // }); 
 
-var selectedTechnique = "wordcount";
+var selectedTechnique = "";
 
-showWordCount("category");
+showWordCount("wordcount");
 
 function showWordCount(technique) {
 
@@ -175,17 +175,17 @@ $(".itemHeader").on("click", function() {
     selected_title = this.innerHTML.toLowerCase();
 
 	if ($(this).hasClass("selectedCol")) {
-		$("." + selected_title).css('color', '#D3D3D3');
+		$(".item." + selected_title).css('color', '#D3D3D3');
 	} else {
-		$("." + selected_title).css('color', 'black');
+		$(".item." + selected_title).css('color', 'black');
 	}
 
     $(this).toggleClass("selectedCol");
 }); 
 
-$(".legend").on("click", function() {
+$(".legend.tech").on("click", function() {
 
-	$(".selected").toggleClass("selected");
+	$(".legend.tech.selected").toggleClass("selected");
 
 	console.log(this.innerHTML);
 	if (this.innerHTML == "Theme") {
@@ -202,7 +202,22 @@ $(".legend").on("click", function() {
 
     $(this).toggleClass("selected");
 
-    showWordCount(selectedTechnique);
+    if (selectedTechnique != "") {
+    	showWordCount(selectedTechnique);
+    }
+});
+
+$(".legend.year").on("click", function() {
+
+	selected_year = this.innerHTML;
+
+	$(this).toggleClass("selected");
+
+	if ($(this).hasClass("selected")) {
+		$(".container." + selected_year).show();
+	} else {
+		$(".container." + selected_year).hide();
+	}
 });
 
 // $("#theme").on("click", function() {
