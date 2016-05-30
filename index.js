@@ -57,6 +57,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -106,6 +115,15 @@ function showWordCount(technique) {
 		        } else {
 		        	new_word = word;
 		        }
+
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -157,6 +175,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -207,6 +234,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -256,6 +292,15 @@ function showWordCount(technique) {
 		        } else {
 		        	new_word = word;
 		        }
+
+		        if (new_word.indexOf('@') >= 0) {
+		        	new_word = new_word.replace('@', '');
+		        }
+		        if (new_word.indexOf('#') >= 0) {
+		        	new_word = new_word.replace('#', '');
+		        }
+		        new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -355,9 +400,15 @@ $(".legend.year").on("click", function() {
 // }); 
 
 function showThisWord(word) {
-	console.log(word);
+
+	// if (word.indexOf("’") >= 0) {
+	// 	console.log("HEREEEEEE");
+	// 	console.log(word);
+	// 	console.log(word.indexOf("'"));
+	// }
+	// console.log(word);
 	word = word.toString().substring(1, word.length - 2);
-	console.log(word);
+	// console.log(word);
 
 	var new_word = "";
 
@@ -373,6 +424,15 @@ function showThisWord(word) {
     } else {
     	new_word = word;
     }
+
+    if (new_word.indexOf('@') >= 0) {
+    	new_word = new_word.replace('@', '');
+    }
+    if (new_word.indexOf('#') >= 0) {
+    	new_word = new_word.replace('#', '');
+    }
+    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+	new_word = new_word.replace("’", '-');
 
 	var selected_categories = document.getElementsByClassName("selectedCol");
     console.log(selected_categories);
