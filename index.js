@@ -200,9 +200,11 @@ $(".itemHeader").on("click", function() {
     selected_title = this.innerHTML.toLowerCase();
 
 	if ($(this).hasClass("selectedCol")) {
-		$(".item." + selected_title).css('color', '#D3D3D3');
+		//$(".item." + selected_title).css('color', '#D3D3D3');
+		$('.' + selected_title + ' > .word').css('color', '#D3D3D3');
 	} else {
-		$(".item." + selected_title).css('color', 'black');
+		//$(".item." + selected_title).css('color', 'black');
+		$('.' + selected_title + ' > .word').css('color', 'black');
 	}
 
     $(this).toggleClass("selectedCol");
