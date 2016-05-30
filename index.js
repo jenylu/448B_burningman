@@ -90,6 +90,8 @@ function showWordCount(technique) {
 		    }
 	    }
 
+	    updateSelectedCol();
+
 	});
 
 	d3.json("datasets/event.json", function(error, data) {
@@ -158,6 +160,7 @@ function showWordCount(technique) {
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
@@ -227,6 +230,7 @@ function showWordCount(technique) {
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
@@ -296,6 +300,7 @@ function showWordCount(technique) {
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
@@ -365,9 +370,25 @@ function showWordCount(technique) {
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
+}
+
+function updateSelectedCol() {
+	//console.log("entere");
+	var categories = ["theme", "event", "art", "camp", "twitter"];
+	for (i = 0; i < categories.length; i ++) {
+		cur_category = categories[i];
+		if ($(".itemHeader." + cur_category).hasClass("selectedCol")) {
+			//$(".item." + selected_title).css('color', '#D3D3D3');
+			$('.' + cur_category + ' > .word').css('color', 'black');
+		} else {
+			//$(".item." + selected_title).css('color', 'black');
+			$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
+		}
+	}
 }
 
 
@@ -392,10 +413,10 @@ $(".itemHeader").on("click", function() {
 
 function updateIntersection() {
 	var selected_categories = document.getElementsByClassName("selectedCol");
-    console.log(selected_categories);
+    //console.log(selected_categories);
 
     if (selected_categories.length > 1) {
-    	console.log("Entered");
+    	//console.log("Entered");
 
     	var categories = []
 
@@ -403,7 +424,9 @@ function updateIntersection() {
     		categories.push(selected_categories[i].innerHTML.toLowerCase());
     	}
 
-    	console.log(categories);
+    	//console.log(categories);
+
+    	// for each category, 
     }
 }
 
@@ -411,7 +434,7 @@ $(".legend.tech").on("click", function() {
 
 	$(".legend.tech.selected").toggleClass("selected");
 
-	console.log(this.innerHTML);
+	//console.log(this.innerHTML);
 	if (this.innerHTML == "Theme") {
 		selectedTechnique = "theme";
 	} else if (this.innerHTML == "Word Count") {
@@ -486,11 +509,11 @@ function showThisWord(word) {
 	new_word = new_word.replace("’", '-');
 
 	var selected_categories = document.getElementsByClassName("selectedCol");
-    console.log(selected_categories);
+    //console.log(selected_categories);
 
     for (i = 0; i < selected_categories.length; i ++) {
     	cur_category = selected_categories[i].innerHTML.toLowerCase();
-    	console.log(cur_category);
+    	//console.log(cur_category);
     	$(".item." + cur_category).css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word.' + new_word).css('color', 'black');
