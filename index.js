@@ -34,11 +34,22 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
 		        word = word.toString();
 		        count = object['Count'];
+		        //console.log(count);
 		        sentiment_scale = object['Sentiment Scale'];
 		        //console.log(word, count, sentiment_scale);
 
@@ -57,6 +68,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -69,6 +89,8 @@ function showWordCount(technique) {
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+
+	    updateSelectedCol();
 
 	});
 
@@ -87,10 +109,21 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
 		        word = word.toString();
+                sentiment_scale = object['Sentiment Scale'];
 
 		        var new_word = "";
 
@@ -107,6 +140,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -115,10 +157,11 @@ function showWordCount(technique) {
 		        var div = document.getElementById('event_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
+		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
@@ -137,10 +180,21 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
 		        word = word.toString();
+                sentiment_scale = object['Sentiment Scale'];
 
 		        var new_word = "";
 
@@ -157,6 +211,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -165,10 +228,11 @@ function showWordCount(technique) {
 		        var div = document.getElementById('art_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
+		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
@@ -187,10 +251,21 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
 		        word = word.toString();
+                sentiment_scale = object['Sentiment Scale'];
 
 		        var new_word = "";
 
@@ -207,6 +282,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+			    	new_word = new_word.replace('@', '');
+			    }
+			    if (new_word.indexOf('#') >= 0) {
+			    	new_word = new_word.replace('#', '');
+			    }
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -215,10 +299,11 @@ function showWordCount(technique) {
 		        var div = document.getElementById('camp_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
+		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
@@ -237,10 +322,21 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
 		        word = word.toString();
+                sentiment_scale = object['Sentiment Scale'];
 
 		        var new_word = "";
 
@@ -257,6 +353,15 @@ function showWordCount(technique) {
 		        	new_word = word;
 		        }
 
+		        if (new_word.indexOf('@') >= 0) {
+		        	new_word = new_word.replace('@', '');
+		        }
+		        if (new_word.indexOf('#') >= 0) {
+		        	new_word = new_word.replace('#', '');
+		        }
+		        new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace("’", '-');
+
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
 					word = word.toString().substring(0, word.length - 1);
@@ -265,13 +370,29 @@ function showWordCount(technique) {
 		        var div = document.getElementById('twitter_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML)" class="word ' + new_word +'">['+word+"] "+'</span>');
+		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
+	    updateSelectedCol();
 
 	});
 
+}
+
+function updateSelectedCol() {
+	//console.log("entere");
+	var categories = ["theme", "event", "art", "camp", "twitter"];
+	for (i = 0; i < categories.length; i ++) {
+		cur_category = categories[i];
+		if ($(".itemHeader." + cur_category).hasClass("selectedCol")) {
+			//$(".item." + selected_title).css('color', '#D3D3D3');
+			$('.' + cur_category + ' > .word').css('color', 'black');
+		} else {
+			//$(".item." + selected_title).css('color', 'black');
+			$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
+		}
+	}
 }
 
 
@@ -296,10 +417,10 @@ $(".itemHeader").on("click", function() {
 
 function updateIntersection() {
 	var selected_categories = document.getElementsByClassName("selectedCol");
-    console.log(selected_categories);
+    //console.log(selected_categories);
 
     if (selected_categories.length > 1) {
-    	console.log("Entered");
+    	//console.log("Entered");
 
     	var categories = []
 
@@ -307,7 +428,9 @@ function updateIntersection() {
     		categories.push(selected_categories[i].innerHTML.toLowerCase());
     	}
 
-    	console.log(categories);
+    	//console.log(categories);
+
+    	// for each category, 
     }
 }
 
@@ -315,7 +438,7 @@ $(".legend.tech").on("click", function() {
 
 	$(".legend.tech.selected").toggleClass("selected");
 
-	console.log(this.innerHTML);
+	//console.log(this.innerHTML);
 	if (this.innerHTML == "Theme") {
 		selectedTechnique = "theme";
 	} else if (this.innerHTML == "Word Count") {
@@ -357,7 +480,6 @@ $(".legend.year").on("click", function() {
 function showThisWord(word, sentimentVal) {
 	console.log(word);
 	word = word.toString().substring(1, word.length - 2);
-	console.log(word);
 
 	var new_word = "";
 
@@ -374,14 +496,23 @@ function showThisWord(word, sentimentVal) {
     	new_word = word;
     }
 
+    if (new_word.indexOf('@') >= 0) {
+    	new_word = new_word.replace('@', '');
+    }
+    if (new_word.indexOf('#') >= 0) {
+    	new_word = new_word.replace('#', '');
+    }
+    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+	new_word = new_word.replace("’", '-');
+
 	var selected_categories = document.getElementsByClassName("selectedCol");
-    console.log(selected_categories);
+    //console.log(selected_categories);
 
     var sentimentColor = calcSentimentColor(sentimentVal);
 
     for (i = 0; i < selected_categories.length; i ++) {
     	cur_category = selected_categories[i].innerHTML.toLowerCase();
-    	console.log(cur_category);
+    	//console.log(cur_category);
     	$(".item." + cur_category).css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word.' + new_word).css('color', sentimentColor);
@@ -406,7 +537,7 @@ function calcSentimentColor(sentimentVal) {
     
     var h= Math.floor((sentimentVal) * 120 / 100);
     var s = Math.abs(sentimentVal - 50)/50;
-    var v = 1;
+    var v = 0.8;
 
     //convert to color black
     if (s == 0) { v = 0; }
