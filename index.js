@@ -41,6 +41,11 @@ function showWordCount(technique) {
 		        sentiment_scale = object['Sentiment Scale'];
 		        //console.log(word, count, sentiment_scale);
 
+		        var lastchar = word.toString().substring(word.length - 1);
+				if (lastchar == "." || lastchar == ",") {
+					word = word.toString().substring(0, word.length - 1);
+				}
+
 	        	var div = document.getElementById('bm_' + year);
 		        //console.log(div.innerHTML);
 
@@ -69,6 +74,11 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+
+		        var lastchar = word.toString().substring(word.length - 1);
+				if (lastchar == "." || lastchar == ",") {
+					word = word.toString().substring(0, word.length - 1);
+				}
 		     
 		        var div = document.getElementById('event_' + year);
 		        //console.log(div.innerHTML);
@@ -98,6 +108,11 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+
+		        var lastchar = word.toString().substring(word.length - 1);
+				if (lastchar == "." || lastchar == ",") {
+					word = word.toString().substring(0, word.length - 1);
+				}
 		     
 		        var div = document.getElementById('art_' + year);
 		        //console.log(div.innerHTML);
@@ -127,6 +142,11 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+
+		        var lastchar = word.toString().substring(word.length - 1);
+				if (lastchar == "." || lastchar == ",") {
+					word = word.toString().substring(0, word.length - 1);
+				}
 		     
 		        var div = document.getElementById('camp_' + year);
 		        //console.log(div.innerHTML);
@@ -156,6 +176,11 @@ function showWordCount(technique) {
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
+
+		        var lastchar = word.toString().substring(word.length - 1);
+				if (lastchar == "." || lastchar == ",") {
+					word = word.toString().substring(0, word.length - 1);
+				}
 		     
 		        var div = document.getElementById('twitter_' + year);
 		        //console.log(div.innerHTML);
@@ -248,7 +273,7 @@ $(".legend.year").on("click", function() {
 // }); 
 
 function showThisWord(word) {
-	word = word.substring(1, word.length - 2);
+	word = word.toString().substring(1, word.length - 2);
 
 	var selected_categories = document.getElementsByClassName("selectedCol");
     console.log(selected_categories);
@@ -257,6 +282,7 @@ function showThisWord(word) {
     	cur_category = selected_categories[i].innerHTML.toLowerCase();
     	console.log(cur_category);
     	$(".item." + cur_category).css('color', '#D3D3D3');
+    	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word.' + word).css('color', 'black');
     }
 
