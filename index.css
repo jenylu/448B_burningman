@@ -5,24 +5,17 @@ body {
 }
 
 .container {
-    width: 80%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.gridSection {
+    width: 85%;
     float: right;
     margin: 0;
 }
 
 /* GRID LAYOUT */
-.outer {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-direction: column;
-  display: inline-block;
-  *display: inline;
-  zoom: 1
-}
 
 .item {
   /*width: 200px;
@@ -74,12 +67,6 @@ body {
 }
 
 /* Legend Key */
-.filterSection {
-    float: left;
-    margin-top: 50px;
-    margin-left:50px;
-}
-
 .my-legend .legend-title {
     text-align: left;
     margin-bottom: 5px;
@@ -97,10 +84,10 @@ body {
 }
 
 .my-legend .legend-scale ul li {
-    font-size: 17px;
+    font-size: 16px;
     list-style: none;
     margin-left: 0;
-    line-height: 18px;
+    line-height: 14px;
     margin-bottom: 10px;
 }
 
@@ -127,6 +114,7 @@ body {
 
 .my-legend {
     padding-top: 50px;
+    position: fixed;
 }
 
 .legend:hover {
