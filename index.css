@@ -24,9 +24,9 @@ body {
 }
 
 .item {
-  width: 200px;
-  height: 250px;
-  font-size: 16px;
+  /*width: 200px;
+  height: 250px;*/
+  font-size: 14px;
   text-align: center;
   margin-top: 10px;
   border: 1px solid #dfe0ff;
@@ -36,11 +36,11 @@ body {
     text-align: center;
 }
 
-.itemHeader {
+/*.itemHeader {
     width: 200px;
     font-size: 20px;
     text-align: center;
-}
+}*/
 
 .itemYear{
     height: 250px;

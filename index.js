@@ -13,6 +13,8 @@ var years = ["2009", "2010", "2011", "2012", "2013", "2014", "2015"];
 //     $(this).toggleClass("selectedCol");
 // }); 
 
+var selectedTechnique = "wordcount";
+
 showWordCount("category");
 
 function showWordCount(technique) {
@@ -24,8 +26,12 @@ function showWordCount(technique) {
 	    }
 
 	    for (j = 0; j < years.length; j ++) {
-	    	console.log(j);
+	    	//console.log(j);
 	    	year = years[j];
+	    	var div = document.getElementById('bm_' + year);
+	    	while (div.firstChild) {
+			    div.removeChild(div.firstChild);
+			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
 		    for (i = 0; i < data2.length; i ++) {
@@ -35,13 +41,11 @@ function showWordCount(technique) {
 		        sentiment_scale = object['Sentiment Scale'];
 		        //console.log(word, count, sentiment_scale);
 
-		        if (word.length < 100) {
-		        	var div = document.getElementById('bm_' + year);
-			        //console.log(div.innerHTML);
+	        	var div = document.getElementById('bm_' + year);
+		        //console.log(div.innerHTML);
 
-			        $('#bm_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
-			        //div.innerHTML = div.innerHTML + word + "\n";
-		        }
+		        $('#bm_' + year).append('<span class=' + word +'>['+word+"] "+'</span>');
+		        //div.innerHTML = div.innerHTML + word + "\n";
 		    }
 	    }
 
@@ -54,8 +58,12 @@ function showWordCount(technique) {
 	    }
 
 	    for (j = 0; j < years.length; j ++) {
-	    	console.log(j);
+	    	//console.log(j);
 	    	year = years[j];
+	    	var div = document.getElementById('event_' + year);
+	    	while (div.firstChild) {
+			    div.removeChild(div.firstChild);
+			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
 		    for (i = 0; i < data2.length; i ++) {
@@ -79,8 +87,12 @@ function showWordCount(technique) {
 	    }
 
 	    for (j = 0; j < years.length; j ++) {
-	    	console.log(j);
+	    	//console.log(j);
 	    	year = years[j];
+	    	var div = document.getElementById('art_' + year);
+	    	while (div.firstChild) {
+			    div.removeChild(div.firstChild);
+			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
 		    for (i = 0; i < data2.length; i ++) {
@@ -104,8 +116,12 @@ function showWordCount(technique) {
 	    }
 
 	    for (j = 0; j < years.length; j ++) {
-	    	console.log(j);
+	    	//console.log(j);
 	    	year = years[j];
+	    	var div = document.getElementById('camp_' + year);
+	    	while (div.firstChild) {
+			    div.removeChild(div.firstChild);
+			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
 		    for (i = 0; i < data2.length; i ++) {
@@ -129,9 +145,13 @@ function showWordCount(technique) {
 	    }
 
 	    for (j = 0; j < years.length; j ++) {
-	    	console.log(j);
+	    	//console.log(j);
 	    	year = years[j];
-	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == default_technique; })
+	    	var div = document.getElementById('twitter_' + year);
+	    	while (div.firstChild) {
+			    div.removeChild(div.firstChild);
+			}
+	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
@@ -156,5 +176,29 @@ $(".itemHeader").on("click", function() {
 }); 
 
 $(".legend").on("click", function() {
+
+	$(".selected").toggleClass("selected");
+
+	console.log(this.innerHTML);
+	if (this.innerHTML == "Theme") {
+		selectedTechnique = "theme";
+	} else if (this.innerHTML == "Word Count") {
+		selectedTechnique = "wordcount";
+	} else if (this.innerHTML == "Entities") {
+		selectedTechnique = "entity";
+	} else if (this.innerHTML == "Queries") {
+		selectedTechnique = "query";
+	} else if (this.innerHTML == "Category") {
+		selectedTechnique = "category";
+	}
+
     $(this).toggleClass("selected");
-}); 
+
+    showWordCount(selectedTechnique);
+});
+
+// $("#theme").on("click", function() {
+// 	selectedTechnique = "theme";
+// 	console.log(selectedTechnique);
+//     showWordCount(selectedTechnique);
+// }); 
