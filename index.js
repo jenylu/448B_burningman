@@ -34,11 +34,22 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
 		        word = word.toString();
 		        count = object['Count'];
+		        //console.log(count);
 		        sentiment_scale = object['Sentiment Scale'];
 		        //console.log(word, count, sentiment_scale);
 
@@ -95,6 +106,16 @@ function showWordCount(technique) {
 			    div.removeChild(div.firstChild);
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
+
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
 
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
@@ -155,6 +176,16 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
@@ -214,6 +245,16 @@ function showWordCount(technique) {
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
 
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
+
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
 		        word = object['Word'];
@@ -272,6 +313,16 @@ function showWordCount(technique) {
 			    div.removeChild(div.firstChild);
 			}
 	    	data2 = data.filter(function(d) { return d.Year == year && d['NLP Technique'] == technique; })
+
+	    	function compare(a,b) {
+			  if (a['Count'] < b['Count'])
+			    return 1;
+			  else if (a['Count'] > b['Count'])
+			    return -1;
+			  else 
+			    return 0;
+			}
+			data2 = data2.sort(compare);
 
 		    for (i = 0; i < data2.length; i ++) {
 		        object = data2[i];
