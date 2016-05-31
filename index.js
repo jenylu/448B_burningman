@@ -76,6 +76,7 @@ function showWordCount(technique) {
 			    }
 			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
 			    new_word = new_word.replace("’", '-');
+                new_word = new_word.replace(/\//g, 'ForwardSlash');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -85,8 +86,16 @@ function showWordCount(technique) {
 	        	var div = document.getElementById('bm_' + year);
 		        //console.log(div.innerHTML);
 
-		        $('#bm_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
+		        $('#bm_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word + ' id=' + new_word + '">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
+
+                var sentimentColor = calcSentimentColor(sentiment_scale);
+                var style = document.createElement('style');
+                style.type = 'text/css';
+                style.innerHTML = '.sentimentColor' + new_word + year + 'theme { color: ' + sentimentColor + '; }';
+                document.getElementsByTagName('head')[0].appendChild(style);
+
+                $('.' + year + ' > .theme > .' + new_word).addClass('sentimentColor' + new_word + year + 'theme' );
 		    }
 	    }
 
@@ -148,6 +157,7 @@ function showWordCount(technique) {
 			    }
 			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
 			    new_word = new_word.replace("’", '-');
+                new_word = new_word.replace(/\//g, 'ForwardSlash');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -159,6 +169,15 @@ function showWordCount(technique) {
 
 		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
+
+                var sentimentColor = calcSentimentColor(sentiment_scale);
+                var style = document.createElement('style');
+                style.type = 'text/css';
+                style.innerHTML = '.sentimentColor' + new_word + year + 'event { color: ' + sentimentColor + '; }';
+                document.getElementsByTagName('head')[0].appendChild(style);
+
+                $('.' + year + ' > .event > .' + new_word).addClass('sentimentColor' + new_word + year + 'event' );
+
 		    }
 	    }
 	    updateSelectedCol();
@@ -219,6 +238,7 @@ function showWordCount(technique) {
 			    }
 			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
 			    new_word = new_word.replace("’", '-');
+                new_word = new_word.replace(/\//g, 'ForwardSlash');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -230,6 +250,14 @@ function showWordCount(technique) {
 
 		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
+
+                var sentimentColor = calcSentimentColor(sentiment_scale);
+                var style = document.createElement('style');
+                style.type = 'text/css';
+                style.innerHTML = '.sentimentColor' + new_word + year + 'art { color: ' + sentimentColor + '; }';
+                document.getElementsByTagName('head')[0].appendChild(style);
+
+                $('.' + year + ' > .art > .' + new_word).addClass('sentimentColor' + new_word + year + 'art' );
 		    }
 	    }
 	    updateSelectedCol();
@@ -290,6 +318,7 @@ function showWordCount(technique) {
 			    }
 			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
 			    new_word = new_word.replace("’", '-');
+                new_word = new_word.replace(/\//g, 'ForwardSlash');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -301,6 +330,15 @@ function showWordCount(technique) {
 
 		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
+
+                var sentimentColor = calcSentimentColor(sentiment_scale);
+                var style = document.createElement('style');
+                style.type = 'text/css';
+                style.innerHTML = '.sentimentColor' + new_word + year + 'camp { color: ' + sentimentColor + '; }';
+                document.getElementsByTagName('head')[0].appendChild(style);
+
+                $('.' + year + ' > .camp > .' + new_word).addClass('sentimentColor' + new_word + year + 'camp' );
+
 		    }
 	    }
 	    updateSelectedCol();
@@ -361,6 +399,7 @@ function showWordCount(technique) {
 		        }
 		        new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
 			    new_word = new_word.replace("’", '-');
+                new_word = new_word.replace(/\//g, 'ForwardSlash');
 
 		        var lastchar = word.toString().substring(word.length - 1);
 				if (lastchar == "." || lastchar == ",") {
@@ -372,6 +411,14 @@ function showWordCount(technique) {
 
 		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
+
+                var sentimentColor = calcSentimentColor(sentiment_scale);
+                var style = document.createElement('style');
+                style.type = 'text/css';
+                style.innerHTML = '.sentimentColor' + new_word + year + 'twitter { color: ' + sentimentColor + '; }';
+                document.getElementsByTagName('head')[0].appendChild(style);
+
+                $('.' + year + ' > .twitter > .' + new_word).addClass('sentimentColor' + new_word + year + 'twitter' );
 		    }
 	    }
 	    updateSelectedCol();
@@ -386,12 +433,11 @@ function updateSelectedCol() {
 	for (i = 0; i < categories.length; i ++) {
 		cur_category = categories[i];
 		if ($(".itemHeader." + cur_category).hasClass("selectedCol")) {
-			//$(".item." + selected_title).css('color', '#D3D3D3');
-			$('.' + cur_category + ' > .word').css('color', 'black');
+            $('.' + selected_title + ' > .word').removeAttr('style');
 		} else {
-			//$(".item." + selected_title).css('color', 'black');
 			$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
 		}
+
 	}
 }
 
@@ -401,14 +447,17 @@ $(".itemHeader").on("click", function() {
     selected_title = this.innerHTML.toLowerCase();
 
 	if ($(this).hasClass("selectedCol")) {
-		//$(".item." + selected_title).css('color', '#D3D3D3');
-		$('.' + selected_title + ' > .word').css('color', '#D3D3D3');
+		 $('.' + selected_title + ' > .word').css('color', '#D3D3D3');
+
 	} else {
-		//$(".item." + selected_title).css('color', 'black');
-		$('.' + selected_title + ' > .word').css('color', 'black');
+        $('.' + selected_title + ' > .word').removeAttr('style');
 	}
 
     $(this).toggleClass("selectedCol");
+
+    // var sheetToBeRemoved = document.getElementById('styleSheetId');
+    // var sheetParent = sheetToBeRemoved.parentNode;
+    // sheetParent.removeChild(sheetToBeRemoved);
 
     //see if there are multiple sets selected; find intersection
 
@@ -504,6 +553,7 @@ function showThisWord(word, sentimentVal) {
     }
     new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
 	new_word = new_word.replace("’", '-');
+    new_word = new_word.replace(/\//g, 'ForwardSlash');
 
 	var selected_categories = document.getElementsByClassName("selectedCol");
     //console.log(selected_categories);
@@ -512,19 +562,17 @@ function showThisWord(word, sentimentVal) {
 
     for (i = 0; i < selected_categories.length; i ++) {
     	cur_category = selected_categories[i].innerHTML.toLowerCase();
-    	//console.log(cur_category);
+    	console.log(cur_category);
     	$(".item." + cur_category).css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
-    	$('.' + cur_category + ' > .word.' + new_word).css('color', sentimentColor);
+    	$('.' + cur_category + ' > .word.' + new_word).removeAttr('style');
     }
 
 
 }
 
 function calcSentimentColor(sentimentVal) {
-    console.log("ORIG SENTIMENT: " + sentimentVal);
     sentimentVal = sentimentVal * 50.0 + 50.0;  //convert sentiment value to scale 0-100
-    console.log("converted SENTIMENT: " + sentimentVal);
 
     //convert sentiment scale into a gradient color from red to green
     if (sentimentVal > 100) {
@@ -543,7 +591,6 @@ function calcSentimentColor(sentimentVal) {
     if (s == 0) { v = 0; }
     
     var sentimentColor = hsv2rgb(h, s, v);
-    console.log("COLOR " + sentimentColor);
 
     return sentimentColor;
 }

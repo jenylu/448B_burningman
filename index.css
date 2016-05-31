@@ -10,7 +10,7 @@ body {
 }
 
 .gridSection {
-    width: 85%;
+    width: 80%;
     float: right;
     margin: 0;
 }
@@ -47,6 +47,10 @@ body {
 .vertical-text {
     transform: rotate(90deg);
     transform-origin: left top 0;
+}
+
+.greyText {
+    color: #D3D3D3;
 }
 
 /* Category Filters */
