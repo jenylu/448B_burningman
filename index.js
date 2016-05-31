@@ -74,7 +74,7 @@ function showWordCount(technique) {
 			    if (new_word.indexOf('#') >= 0) {
 			    	new_word = new_word.replace('#', '');
 			    }
-			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’'?Ã¢â‚¬Å“Â]/g, "-");
 			    new_word = new_word.replace("’", '-');
                 new_word = new_word.replace(/\//g, 'ForwardSlash');
 
@@ -150,7 +150,7 @@ function showWordCount(technique) {
 			    if (new_word.indexOf('#') >= 0) {
 			    	new_word = new_word.replace('#', '');
 			    }
-			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’'?Ã¢â‚¬Å“Â]/g, "-");
 			    new_word = new_word.replace("’", '-');
                 new_word = new_word.replace(/\//g, 'ForwardSlash');
 
@@ -226,7 +226,7 @@ function showWordCount(technique) {
 			    if (new_word.indexOf('#') >= 0) {
 			    	new_word = new_word.replace('#', '');
 			    }
-			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’'?Ã¢â‚¬Å“Â]/g, "-");
 			    new_word = new_word.replace("’", '-');
                 new_word = new_word.replace(/\//g, 'ForwardSlash');
 
@@ -301,7 +301,7 @@ function showWordCount(technique) {
 			    if (new_word.indexOf('#') >= 0) {
 			    	new_word = new_word.replace('#', '');
 			    }
-			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+			    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’'?Ã¢â‚¬Å“Â]/g, "-");
 			    new_word = new_word.replace("’", '-');
                 new_word = new_word.replace(/\//g, 'ForwardSlash');
 
@@ -377,7 +377,7 @@ function showWordCount(technique) {
 		        if (new_word.indexOf('#') >= 0) {
 		        	new_word = new_word.replace('#', '');
 		        }
-		        new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+		        new_word = new_word.replace(/[|&;$%@"<>()+,.:!’'?Ã¢â‚¬Å“Â]/g, "-");
 			    new_word = new_word.replace("’", '-');
                 new_word = new_word.replace(/\//g, 'ForwardSlash');
 
@@ -526,7 +526,7 @@ function showThisWord(word, sentimentVal) {
     if (new_word.indexOf('#') >= 0) {
     	new_word = new_word.replace('#', '');
     }
-    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’']/g, "-");
+    new_word = new_word.replace(/[|&;$%@"<>()+,.:!’'?Ã¢â‚¬Å“Â]/g, "-");
 	new_word = new_word.replace("’", '-');
     new_word = new_word.replace(/\//g, 'ForwardSlash');
 
