@@ -89,12 +89,7 @@ function showWordCount(technique) {
 		        $('#bm_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word + ' id=' + new_word + '">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 
-                var sentimentColor = calcSentimentColor(sentiment_scale);
-                var style = document.createElement('style');
-                style.type = 'text/css';
-                style.innerHTML = '.sentimentColor' + new_word + year + 'theme { color: ' + sentimentColor + '; }';
-                document.getElementsByTagName('head')[0].appendChild(style);
-
+                makeSentimentStyle(technique, new_word, year, "theme", sentiment_scale);
                 $('.' + year + ' > .theme > .' + new_word).addClass('sentimentColor' + new_word + year + 'theme' );
 		    }
 	    }
@@ -170,12 +165,7 @@ function showWordCount(technique) {
 		        $('#event_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 
-                var sentimentColor = calcSentimentColor(sentiment_scale);
-                var style = document.createElement('style');
-                style.type = 'text/css';
-                style.innerHTML = '.sentimentColor' + new_word + year + 'event { color: ' + sentimentColor + '; }';
-                document.getElementsByTagName('head')[0].appendChild(style);
-
+                makeSentimentStyle(technique, new_word, year, "event", sentiment_scale);
                 $('.' + year + ' > .event > .' + new_word).addClass('sentimentColor' + new_word + year + 'event' );
 
 		    }
@@ -251,12 +241,7 @@ function showWordCount(technique) {
 		        $('#art_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 
-                var sentimentColor = calcSentimentColor(sentiment_scale);
-                var style = document.createElement('style');
-                style.type = 'text/css';
-                style.innerHTML = '.sentimentColor' + new_word + year + 'art { color: ' + sentimentColor + '; }';
-                document.getElementsByTagName('head')[0].appendChild(style);
-
+                makeSentimentStyle(technique, new_word, year, "art", sentiment_scale);
                 $('.' + year + ' > .art > .' + new_word).addClass('sentimentColor' + new_word + year + 'art' );
 		    }
 	    }
@@ -331,12 +316,7 @@ function showWordCount(technique) {
 		        $('#camp_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 
-                var sentimentColor = calcSentimentColor(sentiment_scale);
-                var style = document.createElement('style');
-                style.type = 'text/css';
-                style.innerHTML = '.sentimentColor' + new_word + year + 'camp { color: ' + sentimentColor + '; }';
-                document.getElementsByTagName('head')[0].appendChild(style);
-
+                makeSentimentStyle(technique, new_word, year, "camp", sentiment_scale);
                 $('.' + year + ' > .camp > .' + new_word).addClass('sentimentColor' + new_word + year + 'camp' );
 
 		    }
@@ -412,12 +392,7 @@ function showWordCount(technique) {
 		        $('#twitter_' + year).append('<span onclick="showThisWord(this.innerHTML, ' + sentiment_scale + ')" class="word ' + new_word +'">['+word+"] "+'</span>');
 		        //div.innerHTML = div.innerHTML + word + "\n";
 
-                var sentimentColor = calcSentimentColor(sentiment_scale);
-                var style = document.createElement('style');
-                style.type = 'text/css';
-                style.innerHTML = '.sentimentColor' + new_word + year + 'twitter { color: ' + sentimentColor + '; }';
-                document.getElementsByTagName('head')[0].appendChild(style);
-
+                makeSentimentStyle(technique, new_word, year, "twitter", sentiment_scale);
                 $('.' + year + ' > .twitter > .' + new_word).addClass('sentimentColor' + new_word + year + 'twitter' );
 		    }
 	    }
@@ -629,3 +604,17 @@ var hsv2rgb = function(h, s, v) {
     return ("0" + Math.round(x*255).toString(16)).slice(-2);
   }).join('');
 };
+
+function makeSentimentStyle(technique, new_word, year, category, sentiment_scale) {
+    var sentimentColor;
+    if (technique === "wordcount") {
+        sentimentColor = 'black';
+    } else {   
+        sentimentColor = calcSentimentColor(sentiment_scale);              
+    }
+
+    var style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = '.sentimentColor' + new_word + year + category + ' { color: ' + sentimentColor + '; }';
+    document.getElementsByTagName('head')[0].appendChild(style);
+}
