@@ -408,7 +408,7 @@ function updateSelectedCol() {
 	for (i = 0; i < categories.length; i ++) {
 		cur_category = categories[i];
 		if ($(".itemHeader." + cur_category).hasClass("selectedCol")) {
-            $('.' + selected_title + ' > .word').removeAttr('style');
+            $('.' + cur_category + ' > .word').removeAttr('style');
 		} else {
 			$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
 		}
@@ -435,7 +435,7 @@ $(".itemHeader").on("click", function() {
     // sheetParent.removeChild(sheetToBeRemoved);
 
     //see if there are multiple sets selected; find intersection
-
+    updateSelectedCol();
     updateIntersection();
 }); 
 
