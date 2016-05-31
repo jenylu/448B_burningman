@@ -559,7 +559,8 @@ function calcSentimentColor(sentimentVal) {
     // $(".value", span).text(val);
     
     var h= Math.floor((sentimentVal) * 120 / 100);
-    var s = Math.abs(sentimentVal - 50)/50;
+    // var s = Math.abs(sentimentVal - 50)/50;
+    var s= 1;
     var v = 0.8;
 
     //convert to color black

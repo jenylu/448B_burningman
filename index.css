@@ -53,6 +53,10 @@ body {
     color: #D3D3D3;
 }
 
+.word:hover {
+    cursor: pointer;
+}
+
 /* Category Filters */
 .itemHeader:hover {
     cursor: pointer;
