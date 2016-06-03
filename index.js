@@ -408,7 +408,7 @@ function updateSelectedCol() {
 	for (i = 0; i < categories.length; i ++) {
 		cur_category = categories[i];
 		if ($(".itemHeader." + cur_category).hasClass("selectedCol")) {
-            $('.' + selected_title + ' > .word').removeAttr('style');
+            $('.' + cur_category + ' > .word').removeAttr('style');
 		} else {
 			$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
 		}
@@ -542,7 +542,6 @@ function showThisWord(word, sentimentVal) {
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word.' + new_word).removeAttr('style');
     }
-
 
 }
 

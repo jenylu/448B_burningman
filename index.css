@@ -31,12 +31,6 @@ body {
     text-align: center;
 }
 
-/*.itemHeader {
-    width: 200px;
-    font-size: 20px;
-    text-align: center;
-}*/
-
 .itemYear{
     height: 250px;
     font-size: 20px;
@@ -62,6 +56,9 @@ body {
     cursor: pointer;
     opacity: 0.6;
     transition: all 0.3s ease 0s;
+}
+.unselectedWord {
+color: #D3D3D3;
 }
 
 .selectedCol {
@@ -167,19 +164,119 @@ body {
 
 .legend.year:hover {opacity: 0.7;}
 
-/*.colHeader:hover ~ .vertical-text {
-    opacity: .5;
+.word:hover {
+    position: relative;
 }
-*/
-/*.colHeader:hover {
-    background: red;
-    color: #fff;
+
+/* word count 2015 */
+.fbi {
+    font-weight: bold;
+    font-style: italic;
 }
-li:nth-child(2) a:hover {
-    background: blue;
-    color: #fff;
+
+.fbi:hover:after {
+    content: url(img/tweet_fbi.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+  /*  left: 123px; /* change this value to one that suits you */
+    right: 100px;
+    top: 56px; /* change this value to one that suits you */
+    z-index: 1;
 }
-li:nth-child(3) a:hover {
-    background: green;
-    color: #fff;
-}*/
+
+/* theme 2015 */
+.white-folks {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.white-folks:hover:after {
+    content: url(img/tweet_whitefolks.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
+
+/*theme 2014 */
+.Worthless-Currency-Exchange {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Worthless-Currency-Exchange:hover:after {
+    content: url(img/tweet_worthless.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
+
+/*themes 2012 */
+.Oral-History {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Oral-History:hover:after {
+    content: url(img/tweet_oralhistory.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
+
+/* themes 2011 */
+.sentimentColor25th-anniversary2011twitter {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sentimentColor25th-anniversary2011twitter:hover:after {
+    content: url(img/tweet_25.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
+
+/*theme 2010 */
+.open-source-cell-phone-system {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.open-source-cell-phone-system:hover:after {
+    content: url(img/tweet_opensource.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
+
+/* themes 2009 */
+.sentimentColorlive-stream2009twitter {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sentimentColorlive-stream2009twitter:hover:after {
+    content: url(img/tweet_livestream.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
+
+.tech-titans {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.tech-titans:hover:after {
+    content: url(img/tweet_techtitans.PNG); /* no need for qoutes */
+    display: block;
+    position: absolute;
+    right: 100px;
+    z-index: 1;
+}
