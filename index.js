@@ -463,7 +463,7 @@ $(".legend.tech").on("click", function() {
 	$(".legend.tech.selected").toggleClass("selected");
 
 	//console.log(this.innerHTML);
-	if (this.innerHTML == "Theme") {
+	if (this.innerHTML == "Text Themes") {
 		selectedTechnique = "theme";
 	} else if (this.innerHTML == "Word Count") {
 		selectedTechnique = "wordcount";
