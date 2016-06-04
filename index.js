@@ -15,6 +15,8 @@ var years = ["2009", "2010", "2011", "2012", "2013", "2014", "2015"];
 
 var selectedTechnique = "";
 
+var prevClickedWord = "";
+
 showWordCount("wordcount");
 
 function showWordCount(technique) {
@@ -538,10 +540,32 @@ function showThisWord(word, sentimentVal) {
     for (i = 0; i < selected_categories.length; i ++) {
     	cur_category = selected_categories[i].innerHTML.toLowerCase();
     	console.log(cur_category);
-    	$(".item." + cur_category).css('color', '#D3D3D3');
+
+    	var children = $('.' + cur_category).children();
+    	for (q = 0; q < children.length; q ++) {
+    		child = children[q];
+    		style = window.getComputedStyle(child);
+    		color = style.getPropertyValue('color');
+    		console.log(color);
+    		if (color == 'rgb(211, 211, 211)' && word == prevClickedWord) {
+    			console.log("Entered");
+    			updateSelectedCol();
+    			prevClickedWord = "";
+    			break;
+    		}
+    	}
+    	//$(".item." + cur_category).css('color', '#D3D3D3');
+     // 	if ($('.' + cur_category).has(".word").css('color', '#D3D3D3')) {
+    	// 	updateSelectedCol();
+    	// } else {
+    	// 	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
+    	// 	$('.' + cur_category + ' > .word.' + new_word).removeAttr('style');
+    	// }
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word.' + new_word).removeAttr('style');
     }
+
+    prevClickedWord = word;
 
 }
 
