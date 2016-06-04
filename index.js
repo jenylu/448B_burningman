@@ -435,7 +435,7 @@ $(".itemHeader").on("click", function() {
     // sheetParent.removeChild(sheetToBeRemoved);
 
     //see if there are multiple sets selected; find intersection
-
+    updateSelectedCol();
     updateIntersection();
 }); 
 
