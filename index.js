@@ -15,6 +15,8 @@ var years = ["2009", "2010", "2011", "2012", "2013", "2014", "2015"];
 
 var selectedTechnique = "";
 
+var prevClickedWord = "";
+
 showWordCount("wordcount");
 
 function showWordCount(technique) {
@@ -422,7 +424,7 @@ $(".itemHeader").on("click", function() {
     selected_title = this.innerHTML.toLowerCase();
 
 	if ($(this).hasClass("selectedCol")) {
-		 $('.' + selected_title + ' > .word').css('color', '#D3D3D3');
+		$('.' + selected_title + ' > .word').css('color', '#D3D3D3');
 
 	} else {
         $('.' + selected_title + ' > .word').removeAttr('style');
@@ -435,7 +437,7 @@ $(".itemHeader").on("click", function() {
     // sheetParent.removeChild(sheetToBeRemoved);
 
     //see if there are multiple sets selected; find intersection
-
+    updateSelectedCol();
     updateIntersection();
 }); 
 
@@ -538,9 +540,67 @@ function showThisWord(word, sentimentVal) {
     for (i = 0; i < selected_categories.length; i ++) {
     	cur_category = selected_categories[i].innerHTML.toLowerCase();
     	console.log(cur_category);
-    	$(".item." + cur_category).css('color', '#D3D3D3');
+
+    	var children = $('.' + cur_category).children();
+    	for (q = 0; q < children.length; q ++) {
+    		child = children[q];
+    		style = window.getComputedStyle(child);
+    		color = style.getPropertyValue('color');
+    		console.log(color);
+    		if (color == 'rgb(211, 211, 211)' && word == prevClickedWord) {
+    			console.log("Entered");
+    			updateSelectedCol();
+    			prevClickedWord = "";
+    			break;
+    		}
+    	}
+    	//$(".item." + cur_category).css('color', '#D3D3D3');
+     // 	if ($('.' + cur_category).has(".word").css('color', '#D3D3D3')) {
+    	// 	updateSelectedCol();
+    	// } else {
+    	// 	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
+    	// 	$('.' + cur_category + ' > .word.' + new_word).removeAttr('style');
+    	// }
     	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
     	$('.' + cur_category + ' > .word.' + new_word).removeAttr('style');
+    }
+
+    prevClickedWord = word;
+
+}
+
+function showThisSentimentWord(sentimentColor) {
+
+	var selected_categories = document.getElementsByClassName("selectedCol");
+    //console.log(selected_categories);
+
+    // var sentimentColor = calcSentimentColor(sentimentVal);
+
+    for (i = 0; i < selected_categories.length; i ++) {
+    	cur_category = selected_categories[i].innerHTML.toLowerCase();
+    	console.log(cur_category);
+    	$(".item." + cur_category).css('color', '#D3D3D3');
+    	$('.' + cur_category + ' > .word').css('color', '#D3D3D3');
+
+    	$('.' + cur_category).children().each(function() {
+    		
+    		var word_two = this.attributes.class.textContent.split(" ")[1];
+    		var word_four = this.attributes.class.textContent.split(" ")[3];
+
+    		console.log("color " + $('.' + word_four).css('color'));
+
+    		$('.' + cur_category + ' > .word.' + word_two).removeAttr('style');
+
+    		console.log("after color " + $('.' + word_four).css('color'));
+
+    		if($('.' + word_four).css("color") === sentimentColor) {
+	    		console.log("hi");
+	    		// $('.' + cur_category + ' > .word.' + word_two).removeAttr('style');
+
+	    	} else {
+	    		$('.' + cur_category + ' > .word.' + word_two).css('color', '#D3D3D3');
+	    	}
+    	});    	
     }
 
 }
@@ -618,3 +678,25 @@ function makeSentimentStyle(technique, new_word, year, category, sentiment_scale
     style.innerHTML = '.sentimentColor' + new_word + year + category + ' { color: ' + sentimentColor + '; }';
     document.getElementsByTagName('head')[0].appendChild(style);
 }
+
+
+
+$(document).ready(function() {
+    if($(".splash").is(":visible")) {
+        $(".wrapper").css({"opacity":"0"});
+    }
+
+    $(".splash-arrow").click(function() {
+        $(".splash").slideUp("800", function() {
+            $(".wrapper").delay(100).animate({"opacity":"1.0"},800);
+        });
+    });
+});
+
+$(window).scroll(function() {
+    $(window).off("scroll");
+    $(".splash").slideUp("800", function() {
+        $("html, body").animate({"scrollTop":"0px"},100);
+        $(".wrapper").delay(100).animate({"opacity":"1.0"},800);
+    });
+});

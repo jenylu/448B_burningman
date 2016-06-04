@@ -52,6 +52,7 @@ body {
 }
 
 /* Category Filters */
+
 .itemHeader:hover {
     cursor: pointer;
     opacity: 0.6;
@@ -119,7 +120,7 @@ color: #D3D3D3;
 }
 
 .my-legend {
-    padding-top: 50px;
+    padding-top: 60px;
     position: fixed;
 }
 
@@ -280,4 +281,103 @@ color: #D3D3D3;
     position: absolute;
     right: 100px;
     z-index: 1;
+}
+
+
+.splash {
+    background: url('../img/splash.jpg') center center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    min-height: 360px;
+    z-index: 999;
+    /*text-align: center;*/
+    text-align: left;
+ }
+
+.splash-title {
+    font-family: 'Roboto Slab';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+
+.splash-arrow {
+    font-family: 'Open Sans';
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    color: #2b90d9;
+    border: 2px solid #2b90d9;
+    background: transparent;
+    padding: 8px;
+    font-size: 22px;
+}
+
+.splash-arrow:hover, .splash-arrow.-active {
+    color: #FFFFFF;
+    border-color: #2b90d9;
+    background: #2b90d9;
+    transition: all 0.3s ease 0s;
+}
+
+.button.-border {
+  color: #2b90d9;
+  border: 2px solid #2b90d9;
+  background: transparent;
+}
+.button.-border:hover, .button.-border.-active {
+    color: #FFFFFF;
+    border-color: #2b90d9;
+    background: #2b90d9;
+    transition: all 0.3s ease 0s;
+}
+
+/*gradient legend */
+.sentiment-my-legend .sentiment-legend-title {
+text-align: left;
+margin-bottom: 8px;
+font-weight: bold;
+font-size: 90%;
+}
+.sentiment-my-legend .sentiment-legend-scale ul {
+margin: 0;
+padding: 0;
+float: left;
+list-style: none;
+width: 20%;
+}
+.sentiment-my-legend .sentiment-legend-scale ul li {
+display: block;
+float: left;
+width: 45px;
+margin-bottom: 6px;
+text-align: center;
+font-size: 80%;
+list-style: none;
+}
+.sentiment-my-legend ul.sentiment-legend-labels li span {
+display: block;
+float: left;
+height: 15px;
+width: 50px;
+}
+.sentiment-my-legend .sentiment-legend-source {
+font-size: 70%;
+color: #999;
+clear: both;
+}
+.sentiment-my-legend a {
+color: #777;
+}
+
+.sentiment-my-legend{
+    margin-bottom: 30px;
 }

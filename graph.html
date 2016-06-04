@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="index.css">
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="semantic/semantic.min.css">
+        <script src="semantic/semantic.min.js"></script>
+    </head>
+    <body>
+        
+      <div class="container">
+        <h2>)'( Burning Man Word Trends from 2009-2015</h2>
+
+        <div class='my-legend'>
+          <div class='legend-scale'>
+            <ul class='legend-labels'>
+              <li id="wordcount" class="legend tech selected">Word Count</li>
+              <li id="theme" class="legend tech">Text Themes</li>
+              <li id="entity" class="legend tech">Entities</li>
+              <li id="query" class="legend tech">Queries</li>
+              <li id="category" class="legend tech">Category</li>
+              <br>
+              <li class="legend year selected">2015</li>
+              <li class="legend year selected">2014</li>
+              <li class="legend year selected">2013</li>
+              <li class="legend year selected">2012</li>
+              <li class="legend year selected">2011</li>
+              <li class="legend year selected">2010</li>
+              <li class="legend year selected">2009</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class='sentiment-my-legend'>
+          <div class='sentiment-legend-title'>Sentiment Scale</div>
+          <div class='sentiment-legend-scale'>
+            <ul class='sentiment-legend-labels'>
+              <li class="negative" ><span style='background:#cc0000;'></span>Negative</li>
+              <!-- onclick="showThisSentimentWord('rgb(204,0,0)')" -->
+              <li class="less-negative" ><span style='background:#cca300;'></span></li>
+              <!-- onclick="showThisSentimentWord('rgb(204,163,0)')" -->
+              <li class="neutral" ><span style='background:#ccc500;'></span>Neutral</li>
+              <!-- onclick="showThisSentimentWord('rgb(204,204,0)')" -->
+              <li class="less-positive" ><span style='background:#63cc00;'></span></li>
+              <!-- onclick="showThisSentimentWord('rgb(99,204,0)')" -->
+              <li class="positive" ><span style='background:#00cc00;'></span>Positive</li>
+              <!-- onclick="showThisSentimentWord('rgb(0, 204, 0)')" -->
+            </ul>
+          </div>
+        </div>
+       
+        <div class="gridSection">
+          <div class="ui grid container header">
+            <div class="three wide column itemHeader theme selectedCol">Theme</div>
+            <div class="three wide column itemHeader event">Event</div>
+            <div class="three wide column itemHeader art">Art</div>
+            <div class="three wide column itemHeader camp">Camp</div>
+            <div class="three wide column itemHeader twitter">Twitter</div>
+          </div>
+
+          <div class="ui grid container 2015">
+            <div class="three wide column item theme" id="bm_2015"></div>
+            <div class="three wide column item event" id="event_2015"></div>
+            <div class="three wide column item art" id="art_2015"></div>
+            <div class="three wide column item camp" id="camp_2015"></div>
+            <div class="three wide column item twitter" id="twitter_2015"></div>
+            <div class="one wide column">2015</div>
+          </div>
+
+          <div class="ui grid container 2014">       
+            <div class="three wide column item theme" id="bm_2014"></div>
+            <div class="three wide column item event" id="event_2014"></div>
+            <div class="three wide column item art" id="art_2014"></div>
+            <div class="three wide column item camp" id="camp_2014"></div>
+            <div class="three wide column item twitter" id="twitter_2014"></div>
+            <div class="one wide column">2014</div>
+          </div>
+
+          <div class="ui grid container 2013">       
+            <div class="three wide column item theme" id="bm_2013"></div>
+            <div class="three wide column item event" id="event_2013"></div>
+            <div class="three wide column item art" id="art_2013"></div>
+            <div class="three wide column item camp" id="camp_2013"></div>
+            <div class="three wide column item twitter" id="twitter_2013"></div>
+            <div class="one wide column">2013</div>
+          </div>
+
+          <div class="ui grid container 2012">       
+            <div class="three wide column item theme" id="bm_2012"></div>
+            <div class="three wide column item event" id="event_2012"></div>
+            <div class="three wide column item art" id="art_2012"></div>
+            <div class="three wide column item camp" id="camp_2012"></div>
+            <div class="three wide column item twitter" id="twitter_2012"></div>
+            <div class="one wide column">2012</div>
+          </div>
+
+          <div class="ui grid container 2011">       
+            <div class="three wide column item theme" id="bm_2011"></div>
+            <div class="three wide column item event" id="event_2011"></div>
+            <div class="three wide column item art" id="art_2011"></div>
+            <div class="three wide column item camp" id="camp_2011"></div>
+            <div class="three wide column item twitter" id="twitter_2011"></div>
+            <div class="one wide column">2011</div>
+          </div>
+
+          <div class="ui grid container 2010">       
+            <div class="three wide column item theme" id="bm_2010"></div>
+            <div class="three wide column item event" id="event_2010"></div>
+            <div class="three wide column item art" id="art_2010"></div>
+            <div class="three wide column item camp" id="camp_2010"></div>
+            <div class="three wide column item twitter" id="twitter_2010"></div>
+            <div class="one wide column">2010</div>
+          </div>
+
+          <div class="ui grid container 2009">       
+            <div class="three wide column item theme" id="bm_2009"></div>
+            <div class="three wide column item event" id="event_2009"></div>
+            <div class="three wide column item art" id="art_2009"></div>
+            <div class="three wide column item camp" id="camp_2009"></div>
+            <div class="three wide column item twitter" id="twitter_2009"></div>
+            <div class="one wide column">2009</div>
+          </div>
+        </div>
+      </div>
+
+      <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+      <script src="http://d3js.org/topojson.v1.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+      <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+      
+      <script src="lib/tooltip.js"></script>
+      <script src="index.js"></script>
+
+    </body>
+</html>
