@@ -285,7 +285,7 @@ color: #D3D3D3;
 
 
 .splash {
-    background: url('../img/splash.jpg') center center;
+    background: url(img/splash.jpg) center center;
     background-size: cover;
     background-attachment: fixed;
     position: absolute;
